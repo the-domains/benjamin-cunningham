@@ -1,0 +1,28 @@
+name: Benjamin Cunningham
+favicon: null
+layout_spectrum: 0.8140857678372413
+typography_spectrum: 0.9154272417072207
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.2561531683895737
+  lightness: 0.6235959643963724
+  saturation: 0.23468236811459064
+  rhythmicContrast: 0.4551260645966977
+purpose: []
