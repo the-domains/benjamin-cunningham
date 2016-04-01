@@ -1,7 +1,7 @@
 name: Benjamin Cunningham
 favicon: null
-layout_spectrum: 0.8140857678372413
-typography_spectrum: 0.9154272417072207
+layout_spectrum: 0.86918
+typography_spectrum: 0.87202
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  brandStrength: 0.2561531683895737
+  brandStrength: 0.25
   lightness: 0.6235959643963724
   saturation: 0.23468236811459064
   rhythmicContrast: 0.4551260645966977
