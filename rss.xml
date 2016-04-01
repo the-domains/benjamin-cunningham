@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Benjamin Cunningham]]></title>
+        <description><![CDATA[Benjamin Cunningham]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 01 Apr 2016 10:54:34 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7945d55a-fc28-46ed-9695-9826522ab911.jpg">]]></description>
+            <link>undefinedbenjamin-cunningham-is-a-prague-based-writer-and-journalist/index.html</link>
+            <guid isPermaLink="false">bb291640-5404-4a52-b9e2-0546d641ef9e</guid>
+            <pubDate>Fri, 01 Apr 2016 10:54:23 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
