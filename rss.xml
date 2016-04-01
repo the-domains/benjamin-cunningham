@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Benjamin Cunningham]]></title>
         <description><![CDATA[Benjamin Cunningham]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://bcunningham.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Apr 2016 10:54:34 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 01 Apr 2016 11:35:27 GMT</lastBuildDate>
+        <atom:link href="http://bcunningham.org/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Cult Classic</p>]]></description>
+            <link>http://bcunningham.org/cult-classic/index.html</link>
+            <guid isPermaLink="false">3857cc35-fca1-4cda-8063-563fe5be0b96</guid>
+            <pubDate>Fri, 01 Apr 2016 11:34:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7945d55a-fc28-46ed-9695-9826522ab911.jpg">]]></description>
-            <link>undefinedbenjamin-cunningham-is-a-prague-based-writer-and-journalist/index.html</link>
+            <link>http://bcunningham.org/benjamin-cunningham-is-a-prague-based-writer-and-journalist/index.html</link>
             <guid isPermaLink="false">bb291640-5404-4a52-b9e2-0546d641ef9e</guid>
             <pubDate>Fri, 01 Apr 2016 10:54:23 GMT</pubDate>
         </item>
