@@ -6,23 +6,23 @@ inLanguage: null
 starred: false
 keywords: []
 description: Cult Classic
-datePublished: '2016-04-01T11:29:20.270Z'
-dateModified: '2016-04-01T11:28:22.105Z'
+datePublished: '2016-04-01T11:34:26.571Z'
+dateModified: '2016-04-01T11:34:10.202Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-01-cult-classic.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-01-cult-classic.md
-published: true
 url: cult-classic/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ba3a39bf-12a7-4a57-bda9-5cd4fff27be3.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac750891-3417-4085-b904-8463b6f745e1.jpg)
 
 Cult Classic
 
