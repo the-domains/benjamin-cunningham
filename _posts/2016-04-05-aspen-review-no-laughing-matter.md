@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Aspen Review: No Laughing Matter'
-datePublished: '2016-04-05T09:22:45.642Z'
-dateModified: '2016-04-05T09:22:38.029Z'
+datePublished: '2016-04-05T09:55:08.059Z'
+dateModified: '2016-04-05T09:47:54.284Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-05-aspen-review-no-laughing-matter.md
@@ -25,6 +25,8 @@ _type: Article
 **_Aspen Review_: No Laughing Matter**
 
 Karl Kraus, The Last Days of Mankind, Translated by Fred Brigham and Edward Timms, Yale University Press, 2015\.
+
+April 1, 2016
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f102e15c-6b61-4806-b374-9f3ceb8a521d.jpg)
 
 Though dangerous to draw direct parallels between past and present, we use knowledge of the familiar to grapple with the unknown. While flawed, this approach helps to orient thinking about people we cannot meet and places we cannnot visit. 
