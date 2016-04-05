@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "LA Review of Books: Cult Classic\_"
-datePublished: '2016-04-05T09:48:44.456Z'
-dateModified: '2016-04-05T09:23:06.598Z'
+datePublished: '2016-04-05T09:55:39.069Z'
+dateModified: '2016-04-05T09:48:49.180Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-01-cult-classic.md
