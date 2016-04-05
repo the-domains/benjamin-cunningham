@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Sme: Your neighbors in the Czech Republic are crazy'
-datePublished: '2016-04-05T09:46:33.953Z'
-dateModified: '2016-04-05T09:46:17.043Z'
+datePublished: '2016-04-05T09:55:28.200Z'
+dateModified: '2016-04-05T09:51:01.728Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-05-sme-your-neighbors-in-the-czech-republic-are-crazy.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-05-sme-your-neighbors-in-the-czech-republic-are-crazy.md
-published: true
 url: sme-your-neighbors-in-the-czech-republic-are-crazy/index.html
 _type: Article
 
