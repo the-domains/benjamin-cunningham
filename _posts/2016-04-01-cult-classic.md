@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: 'https://lareviewofbooks.org/review/cult-classic'
-datePublished: '2016-04-05T08:44:33.814Z'
-dateModified: '2016-04-05T08:44:21.029Z'
+description: "LA Review of Books: Cult Classic\_"
+datePublished: '2016-04-05T09:48:44.456Z'
+dateModified: '2016-04-05T09:23:06.598Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-01-cult-classic.md
@@ -22,7 +22,7 @@ url: cult-classic/index.html
 _type: Article
 
 ---
-_LA Review of Books_: Cult Classic 
+**_LA Review of Books_: Cult Classic **
 
 On Mr. Kafka: And Other Tales from the Time of the Cult
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac750891-3417-4085-b904-8463b6f745e1.jpg)
