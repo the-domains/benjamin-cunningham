@@ -6,25 +6,25 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Aspen Review: No Laughing Matter'
-datePublished: '2016-04-05T08:41:23.088Z'
-dateModified: '2016-04-05T08:41:16.732Z'
+datePublished: '2016-04-05T09:22:45.642Z'
+dateModified: '2016-04-05T09:22:38.029Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-05-aspen-review-no-laughing-matter.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-05-aspen-review-no-laughing-matter.md
-published: true
 url: aspen-review-no-laughing-matter/index.html
 _type: Article
 
 ---
-_Aspen Review_: No Laughing Matter
+**_Aspen Review_: No Laughing Matter**
 
-**Karl Kraus, The Last Days of Mankind, Translated by Fred Brigham and Edward Timms, Yale University Press, 2015\.**
+Karl Kraus, The Last Days of Mankind, Translated by Fred Brigham and Edward Timms, Yale University Press, 2015\.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f102e15c-6b61-4806-b374-9f3ceb8a521d.jpg)
 
 Though dangerous to draw direct parallels between past and present, we use knowledge of the familiar to grapple with the unknown. While flawed, this approach helps to orient thinking about people we cannot meet and places we cannnot visit. 
@@ -68,3 +68,5 @@ Though spared from seeing Austria (and his native Bohemia) fall under Nazi contr
 Kraus did not see the Nazis coming, but neither did anybody else. He may have failed to predict the future, but Kraus's analysis of the world he was in---as events unfolded---was ahead of its time. If it is an oversimplification to draw direct connections with the present day, Kraus's focus on media is instructive for today's information age. One need only recall the run up to the most recent Iraq war to find timelessness in Kraus. "How is the world governed and made to fight wars? Diplomats tell lies to journalists and believe them when they see them in print," he wrote. 
 
 Words may not be enough to win a war, but they remain sufficient to start one.
+
+http://www.aspeninstitute.cz/en/article/1-2016-no-laughing-matter/
