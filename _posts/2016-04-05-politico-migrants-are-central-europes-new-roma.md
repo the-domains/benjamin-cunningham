@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Politico: Migrants are Central Europe's new Roma"
-datePublished: '2016-04-05T09:47:15.433Z'
-dateModified: '2016-04-05T09:22:23.118Z'
+datePublished: '2016-04-05T09:55:19.747Z'
+dateModified: '2016-04-05T09:47:16.528Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-05-politico-migrants-are-central-europes-new-roma.md
@@ -25,6 +25,8 @@ _type: Article
 **_Politico_: Migrants are Central Europe's new Roma**
 
 The region's nationalists reuse old attacks on new targets.
+
+April 5, 2016
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/05dec601-8c05-486a-96ef-a17932e526a4.jpg)
 
 BANSKÁ BYSTRICA, Slovakia --- There's something familiar about the anti-migrant language being used by politicians across Central Europe: It's almost the same as the traditional attacks on the Roma, long the region's most despised minority. 
