@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: 'Sme: Your neighbors in the Czech Republic are crazy'
-datePublished: '2016-04-06T08:18:42.129Z'
-dateModified: '2016-04-06T08:18:32.993Z'
+description: 'Sme: Your neighbors in the Czech Republic have gone crazy'
+datePublished: '2016-04-11T09:24:55.733Z'
+dateModified: '2016-04-11T09:24:37.713Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-05-sme-your-neighbors-in-the-czech-republic-are-crazy.md
@@ -23,8 +23,6 @@ _type: Article
 
 ---
 **_Sme_: Your neighbors in the Czech Republic have gone crazy**
-
-When the leader of the world's most populous country wants to come visit, you say yes and are polite. This is not the same thing as bowing to Chinese imperialism. 
 
 April 1, 2016
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d767e7c1-41c7-4ce2-ae7a-4a6fcc7f4a8c.jpg)
