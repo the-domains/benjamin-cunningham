@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Politico: Salah Abdeslam spent three weeks in Slovakia'
-datePublished: '2016-04-11T10:53:30.047Z'
-dateModified: '2016-04-11T10:53:29.645Z'
+datePublished: '2016-04-11T10:56:29.210Z'
+dateModified: '2016-04-11T10:54:25.191Z'
 title: ''
 author: []
 authors: []
@@ -25,7 +25,7 @@ _type: Article
 **_Politico_: Salah Abdeslam spent three weeks in Slovakia**
 
 April 7, 2016
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/51c4c16c-03be-4012-84ea-c0fb92a3eb27.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/175663bd-f6d2-46f4-9f94-2b3cf987fe28.jpg)
 
 Paris attack suspect Salah Abdeslam spent three weeks in Slovakia last summer, according to a former Slovak Interior Ministry official, adding to reports that alleged terrorists had earlier acquired guns via the Central European country. 
 
