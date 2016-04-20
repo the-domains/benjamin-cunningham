@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Sme: Slovakia rolls of the tongue. What about the rest of Czechoslovakia?'
-datePublished: '2016-04-20T08:15:06.317Z'
-dateModified: '2016-04-20T08:15:02.782Z'
+datePublished: '2016-04-20T08:15:39.342Z'
+dateModified: '2016-04-20T08:15:14.928Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-20-sme-slovakia-rolls-of-the-tongue-what-about-the-rest-of-cz.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-20-sme-slovakia-rolls-of-the-tongue-what-about-the-rest-of-cz.md
-published: true
 url: sme-slovakia-rolls-of-the-tongue-what-about-the-rest-of-cz/index.html
 _type: Article
 
