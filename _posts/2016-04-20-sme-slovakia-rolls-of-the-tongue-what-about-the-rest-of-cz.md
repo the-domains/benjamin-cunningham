@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Sme: Slovakia rolls of the tongue. What about the rest of Czechoslovakia?'
-datePublished: '2016-04-20T08:15:39.342Z'
-dateModified: '2016-04-20T08:15:14.928Z'
+datePublished: '2016-04-20T08:22:33.920Z'
+dateModified: '2016-04-20T08:22:26.143Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-20-sme-slovakia-rolls-of-the-tongue-what-about-the-rest-of-cz.md
@@ -43,4 +43,8 @@ Zaoralek said the change is necessary because, "there have been distortions and 
 
 Regardless of what Zaoralek or Zeman say, I suspect it is largely out of their hands whether the world's English speakers will adopt the name change during what --- in the grand scheme of things --- have to be only very occasional references to the country during casual conversation. 
 
-I do know one thing, when people ask me where I live from now on, I will just say Prague.
+I do know one thing, when people ask me where I live from now on, I will just say Prague. 
+
+_To read in the original Slovak visit... _
+
+http://komentare.sme.sk/c/20139852/czechia-a-cesko.html
