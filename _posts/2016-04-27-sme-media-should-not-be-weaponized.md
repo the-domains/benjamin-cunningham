@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Sme: Media should not be weaponized'
-datePublished: '2016-04-27T08:47:38.228Z'
-dateModified: '2016-04-27T08:47:35.465Z'
+datePublished: '2016-04-27T08:48:01.024Z'
+dateModified: '2016-04-27T08:47:47.272Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-27-sme-media-should-not-be-weaponized.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-27-sme-media-should-not-be-weaponized.md
-published: true
 url: sme-media-should-not-be-weaponized/index.html
 _type: Article
 
