@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Finance and number crunching rarely excites voters. '
-datePublished: '2016-05-04T07:33:07.054Z'
-dateModified: '2016-05-04T07:32:56.323Z'
+datePublished: '2016-05-04T07:33:54.440Z'
+dateModified: '2016-05-04T07:33:48.675Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-04-finance-and-number-crunching-rarely-excites-voters.md
@@ -46,3 +46,5 @@ Voters do not care about budget deficits themselves, but the resulting credibili
 A party, or government, that is tells the truth about budget deficits would say this: "We are going to spend as much money as possible up to the limit where we start to get in trouble with the EU. If we take in extra revenue, we will spend that too --- indirectly by cutting taxes or by building stuff." 
 
 That would not be popular with bankers and ratings agencies, but a party or candidate like that would at least keep their word.
+
+_For the original Slovak version visit... _http://komentare.sme.sk/c/20150984/ratanie-kalorii.html
