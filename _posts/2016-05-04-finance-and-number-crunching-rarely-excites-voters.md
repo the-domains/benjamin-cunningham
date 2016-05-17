@@ -5,12 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Finance and number crunching rarely excites voters. '
-datePublished: '2016-05-04T07:33:54.440Z'
-dateModified: '2016-05-04T07:33:48.675Z'
+datePublished: '2016-05-17T07:16:13.546Z'
+dateModified: '2016-05-17T07:15:49.813Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-04-finance-and-number-crunching-rarely-excites-voters.md
-published: true
 authors: []
 publisher:
   name: null
