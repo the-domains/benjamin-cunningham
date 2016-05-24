@@ -5,23 +5,19 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Sme: Position on migration is doubly harmful to Slovakia'
-datePublished: '2016-05-17T07:33:52.705Z'
-dateModified: '2016-05-17T07:32:45.718Z'
+datePublished: '2016-05-24T18:21:29.576Z'
+dateModified: '2016-05-24T18:21:18.673Z'
 title: ''
 author: []
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
-starred: false
 sourcePath: _posts/2016-05-17-sme-position-on-migration-is-doubly-harmful-to-slovakia.md
+authors: []
+publisher: null
+starred: false
 url: sme-position-on-migration-is-doubly-harmful-to-slovakia/index.html
 _type: Article
 
 ---
-_Sme_: Position on migration is doubly harmful to Slovakia
+**_Sme_: Position on migration is doubly harmful to Slovakia**
 
 May 6, 2016
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c15c5754-3975-4e1b-8152-10c5a3b03324.jpg)
