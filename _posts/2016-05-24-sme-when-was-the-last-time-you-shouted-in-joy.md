@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Sme: When was the last time you shouted in joy?'
-datePublished: '2016-05-24T18:14:12.052Z'
-dateModified: '2016-05-24T18:07:59.192Z'
+datePublished: '2016-05-24T18:20:33.425Z'
+dateModified: '2016-05-24T18:20:25.592Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-24-sme-when-was-the-last-time-you-shouted-in-joy.md
@@ -17,7 +17,7 @@ url: sme-when-was-the-last-time-you-shouted-in-joy/index.html
 _type: Article
 
 ---
-_Sme_: When was the last time you shouted in joy?
+**_Sme_: When was the last time you shouted in joy?**
 
 May 22, 2016
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b043f38e-98ab-49fa-acac-6a47dc3e1ddf.jpg)
