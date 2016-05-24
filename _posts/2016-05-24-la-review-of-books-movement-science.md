@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'LA Review of Books: Movement Science'
-datePublished: '2016-05-24T18:20:21.982Z'
-dateModified: '2016-05-24T18:20:15.289Z'
+datePublished: '2016-05-24T18:24:14.059Z'
+dateModified: '2016-05-24T18:24:08.664Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-24-la-review-of-books-movement-science.md
