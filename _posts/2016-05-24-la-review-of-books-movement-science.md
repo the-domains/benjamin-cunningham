@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'LA Review of Books: Movement Science'
-datePublished: '2016-05-24T18:13:52.899Z'
-dateModified: '2016-05-24T18:13:45.329Z'
+datePublished: '2016-05-24T18:20:21.982Z'
+dateModified: '2016-05-24T18:20:15.289Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-24-la-review-of-books-movement-science.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-05-24-la-review-of-books-movement-science.md
 url: la-review-of-books-movement-science/index.html
 _type: Article
 
 ---
-_LA Review of Books_: Movement Science
+**_LA Review of Books_: Movement Science**
 
 On Tara Zahra's "The Great Departure"
 
