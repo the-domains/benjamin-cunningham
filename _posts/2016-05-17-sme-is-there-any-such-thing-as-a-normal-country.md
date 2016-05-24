@@ -5,23 +5,19 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Sme: Is there any such thing as a normal country?'
-datePublished: '2016-05-17T07:45:18.452Z'
-dateModified: '2016-05-17T07:45:13.076Z'
+datePublished: '2016-05-24T18:21:36.129Z'
+dateModified: '2016-05-24T18:21:28.837Z'
 title: ''
 author: []
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
-starred: false
 sourcePath: _posts/2016-05-17-sme-is-there-any-such-thing-as-a-normal-country.md
+authors: []
+publisher: null
+starred: false
 url: sme-is-there-any-such-thing-as-a-normal-country/index.html
 _type: Article
 
 ---
-_Sme_: Is there any such thing as a normal country?
+**_Sme_: Is there any such thing as a normal country?**
 
 May 13, 2016
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3b65acbe-a0f9-4035-a843-062eb5ddabb7.jpg)
