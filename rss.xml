@@ -4,7 +4,7 @@
         <description><![CDATA[Benjamin Cunningham]]></description>
         <link>http://bcunningham.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 31 May 2016 12:45:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2016 12:49:28 GMT</lastBuildDate>
         <atom:link href="http://bcunningham.org/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>http://bcunningham.org/benjamin-cunningham-is-a-prague-based-writer-and-journalist/index.html</link>
             <guid isPermaLink="false">bb291640-5404-4a52-b9e2-0546d641ef9e</guid>
             <pubDate>Tue, 05 Apr 2016 09:27:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/95cedbbb-6b18-4bcf-80ad-18d7ea295c00.jpg">]]></description>
+            <link>http://bcunningham.org/sme-politics-have-been-replaced-with-management/index.html</link>
+            <guid isPermaLink="false">466dcb7f-0039-414c-950c-db0e4300f234</guid>
+            <pubDate>Tue, 31 May 2016 12:48:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>http://bcunningham.org/sme-slovakia-rolls-of-the-tongue-what-about-the-rest-of-cz/index.html</link>
             <guid isPermaLink="false">4ecaa08b-cf50-49ae-b020-85044b6373df</guid>
             <pubDate>Wed, 20 Apr 2016 08:22:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>The Economist: The Czech Republic awakes to find itself transformed into Czechia</p>]]></description>
-            <link>http://bcunningham.org/the-economist-the-czech-republic-awakes-to-find-itself-tran/index.html</link>
-            <guid isPermaLink="false">ec72fdd2-2894-4395-b3cf-91b3bcde65bf</guid>
-            <pubDate>Wed, 20 Apr 2016 08:21:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
