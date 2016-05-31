@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'The Economist: The charms of Twitterature'
-datePublished: '2016-05-31T12:58:54.088Z'
-dateModified: '2016-05-31T12:57:32.576Z'
+datePublished: '2016-05-31T13:00:57.183Z'
+dateModified: '2016-05-31T13:00:50.689Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-31-the-economist-the-charms-of-twitterature.md
@@ -17,7 +17,7 @@ url: the-economist-the-charms-of-twitterature/index.html
 _type: Article
 
 ---
-_The Economist_: The charms of Twitterature
+**_The Economist_: The charms of Twitterature**
 
 May 30, 2016
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a4a791c8-e0e5-442a-9df9-b0cc5e92a23a.jpg)
