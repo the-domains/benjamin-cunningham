@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Sme: Politics have been replaced with management'
-datePublished: '2016-05-31T12:48:36.425Z'
-dateModified: '2016-05-31T12:48:30.276Z'
+datePublished: '2016-05-31T13:00:31.466Z'
+dateModified: '2016-05-31T13:00:22.991Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-31-sme-politics-have-been-replaced-with-management.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-05-31-sme-politics-have-been-replaced-with-management.md
 url: sme-politics-have-been-replaced-with-management/index.html
 _type: Article
 
 ---
-_Sme_: Politics have been replaced with management
+**_Sme_: Politics have been replaced with management**
 
 May 27, 2016
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/95cedbbb-6b18-4bcf-80ad-18d7ea295c00.jpg)
