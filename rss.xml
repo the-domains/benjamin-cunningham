@@ -4,7 +4,7 @@
         <description><![CDATA[Benjamin Cunningham]]></description>
         <link>http://bcunningham.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 16 Jun 2016 18:36:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2016 18:45:14 GMT</lastBuildDate>
         <atom:link href="http://bcunningham.org/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -15,10 +15,17 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Sme: The difference between Fico and the Czechs</p>]]></description>
+            <link>http://bcunningham.org/sme-the-difference-between-fico-and-the-czechs/index.html</link>
+            <guid isPermaLink="false">dc9a67ac-a379-4c33-a1a9-60924def6883</guid>
+            <pubDate>Thu, 16 Jun 2016 18:45:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Sme: Dear England!</p>]]></description>
             <link>http://bcunningham.org/sme-dear-england/index.html</link>
             <guid isPermaLink="false">053c3834-340f-4604-9eab-d317f53c6c4b</guid>
-            <pubDate>Thu, 16 Jun 2016 18:35:16 GMT</pubDate>
+            <pubDate>Thu, 16 Jun 2016 18:37:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>http://bcunningham.org/sme-when-was-the-last-time-you-shouted-in-joy/index.html</link>
             <guid isPermaLink="false">7ff26172-ccb4-4a79-a000-c005002b0d12</guid>
             <pubDate>Tue, 24 May 2016 18:20:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Finance and number crunching rarely excites voters. </p>]]></description>
-            <link>http://bcunningham.org/finance-and-number-crunching-rarely-excites-voters/index.html</link>
-            <guid isPermaLink="false">a5fd9d38-71db-45d9-b81e-597342d451f8</guid>
-            <pubDate>Tue, 17 May 2016 07:16:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
