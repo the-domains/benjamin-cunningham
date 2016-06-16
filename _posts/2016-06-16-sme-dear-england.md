@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Sme: Dear England!'
-datePublished: '2016-06-16T18:35:16.880Z'
-dateModified: '2016-06-16T18:35:11.453Z'
+datePublished: '2016-06-16T18:37:47.557Z'
+dateModified: '2016-06-16T18:35:28.574Z'
 title: ''
 author: []
+sourcePath: _posts/2016-06-16-sme-dear-england.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-16-sme-dear-england.md
 url: sme-dear-england/index.html
 _type: Article
 
