@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Aspen Review: Centrifugal Force'
-datePublished: '2016-06-21T09:56:54.053Z'
-dateModified: '2016-06-21T09:56:32.275Z'
+datePublished: '2016-06-21T10:21:06.188Z'
+dateModified: '2016-06-21T10:20:56.409Z'
 title: ''
 author: []
+sourcePath: _posts/2016-06-21-aspen-review-centrifugal-force.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-21-aspen-review-centrifugal-force.md
 url: aspen-review-centrifugal-force/index.html
 _type: Article
 
