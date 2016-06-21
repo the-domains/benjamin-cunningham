@@ -5,15 +5,15 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Business New Europe: Pressure grows on Slovak interior minister to resign'
-datePublished: '2016-06-21T09:42:15.091Z'
-dateModified: '2016-06-21T09:42:08.087Z'
+datePublished: '2016-06-21T09:44:10.146Z'
+dateModified: '2016-06-21T09:42:26.642Z'
 title: ''
 author: []
+sourcePath: >-
+  _posts/2016-06-21-business-new-europe-pressure-grows-on-slovak-interior-minis.md
 authors: []
 publisher: null
 starred: false
-sourcePath: >-
-  _posts/2016-06-21-business-new-europe-pressure-grows-on-slovak-interior-minis.md
 url: business-new-europe-pressure-grows-on-slovak-interior-minis/index.html
 _type: Article
 
