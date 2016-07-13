@@ -4,7 +4,7 @@
         <description><![CDATA[Benjamin Cunningham]]></description>
         <link>http://bcunningham.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Jul 2016 10:48:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2016 11:07:16 GMT</lastBuildDate>
         <atom:link href="http://bcunningham.org/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>http://bcunningham.org/benjamin-cunningham-is-a-prague-based-writer-and-journalist/index.html</link>
             <guid isPermaLink="false">bb291640-5404-4a52-b9e2-0546d641ef9e</guid>
             <pubDate>Tue, 05 Apr 2016 09:27:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>The Guardian: How a Czech "super-spy" infiltrated the CIA</p>]]></description>
+            <link>http://bcunningham.org/the-guardian-how-a-czech-super-spy-infiltrated-the-cia/index.html</link>
+            <guid isPermaLink="false">9bb41b09-74b0-4f14-a7fd-d0f2b4516512</guid>
+            <pubDate>Wed, 13 Jul 2016 11:07:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>http://bcunningham.org/politico-the-unbearable-angst-of-czech-being/index.html</link>
             <guid isPermaLink="false">0fe37fa3-d690-44c6-a07e-f43de3d1c1b5</guid>
             <pubDate>Thu, 16 Jun 2016 18:51:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Sme: The difference between Fico and the Czechs</p>]]></description>
-            <link>http://bcunningham.org/sme-the-difference-between-fico-and-the-czechs/index.html</link>
-            <guid isPermaLink="false">dc9a67ac-a379-4c33-a1a9-60924def6883</guid>
-            <pubDate>Thu, 16 Jun 2016 18:45:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
