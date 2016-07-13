@@ -4,7 +4,7 @@
         <description><![CDATA[Benjamin Cunningham]]></description>
         <link>http://bcunningham.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Jul 2016 10:40:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2016 10:48:30 GMT</lastBuildDate>
         <atom:link href="http://bcunningham.org/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>http://bcunningham.org/benjamin-cunningham-is-a-prague-based-writer-and-journalist/index.html</link>
             <guid isPermaLink="false">bb291640-5404-4a52-b9e2-0546d641ef9e</guid>
             <pubDate>Tue, 05 Apr 2016 09:27:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>The Economist: No Oscar fodder at this year's Karlovy Vary film festival</p>]]></description>
+            <link>http://bcunningham.org/the-economist-no-oscar-fodder-at-this-years-karlovy-vary-f/index.html</link>
+            <guid isPermaLink="false">8f17b299-8a00-4bd3-8d2c-46af370900ed</guid>
+            <pubDate>Wed, 13 Jul 2016 10:48:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>http://bcunningham.org/sme-the-difference-between-fico-and-the-czechs/index.html</link>
             <guid isPermaLink="false">dc9a67ac-a379-4c33-a1a9-60924def6883</guid>
             <pubDate>Thu, 16 Jun 2016 18:45:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Sme: Dear England!</p>]]></description>
-            <link>http://bcunningham.org/sme-dear-england/index.html</link>
-            <guid isPermaLink="false">053c3834-340f-4604-9eab-d317f53c6c4b</guid>
-            <pubDate>Thu, 16 Jun 2016 18:37:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
