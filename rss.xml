@@ -4,7 +4,7 @@
         <description><![CDATA[Benjamin Cunningham]]></description>
         <link>http://bcunningham.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Jul 2016 10:23:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2016 10:33:36 GMT</lastBuildDate>
         <atom:link href="http://bcunningham.org/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>http://bcunningham.org/benjamin-cunningham-is-a-prague-based-writer-and-journalist/index.html</link>
             <guid isPermaLink="false">bb291640-5404-4a52-b9e2-0546d641ef9e</guid>
             <pubDate>Tue, 05 Apr 2016 09:27:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Sme: An electoral system dating from the imperial era helped lead to the Brexit</p>]]></description>
+            <link>http://bcunningham.org/sme-an-electoral-system-dating-from-the-imperial-era-helped/index.html</link>
+            <guid isPermaLink="false">6f968e1b-9040-4cd5-a451-e182feff21ed</guid>
+            <pubDate>Wed, 13 Jul 2016 10:33:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>http://bcunningham.org/the-economist-the-charms-of-twitterature/index.html</link>
             <guid isPermaLink="false">cbf04b5a-95ee-4e31-be6e-c335f3258f64</guid>
             <pubDate>Tue, 31 May 2016 13:00:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/95cedbbb-6b18-4bcf-80ad-18d7ea295c00.jpg">]]></description>
-            <link>http://bcunningham.org/sme-politics-have-been-replaced-with-management/index.html</link>
-            <guid isPermaLink="false">466dcb7f-0039-414c-950c-db0e4300f234</guid>
-            <pubDate>Tue, 31 May 2016 13:00:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
