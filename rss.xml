@@ -4,7 +4,7 @@
         <description><![CDATA[Benjamin Cunningham]]></description>
         <link>http://bcunningham.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Jul 2016 16:34:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jul 2016 16:34:47 GMT</lastBuildDate>
         <atom:link href="http://bcunningham.org/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -15,10 +15,17 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c0ee41ee7f15a2d74e5b690f86274a74ebe4ca9a.jpg">]]></description>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1f21fdb2-e194-44a8-b7da-5193bec645c2.jpg">]]></description>
+            <link>http://bcunningham.org/sme-now-the-bill-comes-due-mr-cameron/index.html</link>
+            <guid isPermaLink="false">433d45be-f433-4e50-bed1-3cd32ad8eb88</guid>
+            <pubDate>Wed, 20 Jul 2016 16:34:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sme: Counting Calories]]></title>
+            <description><![CDATA[<article><h1>Sme: Counting Calories</h1><p>April 29, 2016</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ceca1756b9debfd4c370aca399b9e75c/croprotate.jpg?cropheight=2116&cropwidth=2571&degrees=0&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2Fc0ee41ee7f15a2d74e5b690f86274a74ebe4ca9a.jpg&x=0&y=0"></article>]]></description>
             <link>http://bcunningham.org/finance-and-number-crunching-rarely-excites-voters/index.html</link>
             <guid isPermaLink="false">a5fd9d38-71db-45d9-b81e-597342d451f8</guid>
-            <pubDate>Wed, 20 Jul 2016 16:34:10 GMT</pubDate>
+            <pubDate>Wed, 20 Jul 2016 16:34:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Guardian: How a Czech "super-spy" infiltrated the CIA]]></title>
@@ -47,13 +54,6 @@
             <link>http://bcunningham.org/sme-an-electoral-system-dating-from-the-imperial-era-helped/index.html</link>
             <guid isPermaLink="false">6f968e1b-9040-4cd5-a451-e182feff21ed</guid>
             <pubDate>Wed, 13 Jul 2016 10:33:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Sme: Now the bill comes due, Mr. Cameron</p>]]></description>
-            <link>http://bcunningham.org/sme-now-the-bill-comes-due-mr-cameron/index.html</link>
-            <guid isPermaLink="false">433d45be-f433-4e50-bed1-3cd32ad8eb88</guid>
-            <pubDate>Wed, 13 Jul 2016 10:23:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
