@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-20T16:36:52.583Z'
+datePublished: '2016-07-20T16:36:57.471Z'
 sourcePath: _posts/2016-04-05-aspen-review-no-laughing-matter.md
 inFeed: true
 authors: []
@@ -9,7 +9,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-07-20T16:36:52.136Z'
+dateModified: '2016-07-20T16:36:57.122Z'
 title: ''
 publisher: {}
 description: 'Aspen Review: No Laughing Matter'
@@ -68,5 +68,3 @@ Though spared from seeing Austria (and his native Bohemia) fall under Nazi contr
 Kraus did not see the Nazis coming, but neither did anybody else. He may have failed to predict the future, but Kraus's analysis of the world he was in---as events unfolded---was ahead of its time. If it is an oversimplification to draw direct connections with the present day, Kraus's focus on media is instructive for today's information age. One need only recall the run up to the most recent Iraq war to find timelessness in Kraus. "How is the world governed and made to fight wars? Diplomats tell lies to journalists and believe them when they see them in print," he wrote.
 
 Words may not be enough to win a war, but they remain sufficient to start one.
-
-http://www.aspeninstitute.cz/en/article/1-2016-no-laughing-matter/
