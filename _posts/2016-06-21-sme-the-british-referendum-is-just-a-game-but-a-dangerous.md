@@ -1,24 +1,24 @@
 ---
-datePublished: '2016-07-20T16:39:18.747Z'
+datePublished: '2016-07-20T16:39:26.430Z'
 sourcePath: _posts/2016-06-21-sme-the-british-referendum-is-just-a-game-but-a-dangerous.md
 inFeed: true
 authors: []
 hasPage: true
 keywords: []
 author: []
-dateModified: '2016-07-20T16:39:18.186Z'
-title: ''
+via: {}
+dateModified: '2016-07-20T16:39:25.561Z'
+title: 'Sme: The British referendum is just a game, but a dangerous one'
 publisher: {}
-description: 'Sme: The British referendum is just a game, but a dangerous one'
+description: 'June 18, 2016'
 inLanguage: null
 inNav: false
-via: {}
 starred: false
 url: sme-the-british-referendum-is-just-a-game-but-a-dangerous/index.html
 _type: Article
 
 ---
-_**Sme**_**: The British referendum is just a game, but a dangerous one**
+# _**Sme**_**: The British referendum is just a game, but a dangerous one**
 
 June 18, 2016
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6acd10f6-227a-4b42-a4ef-cd2c11387276.jpg)
