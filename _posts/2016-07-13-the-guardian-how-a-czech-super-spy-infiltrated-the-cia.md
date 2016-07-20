@@ -1,24 +1,24 @@
 ---
-datePublished: '2016-07-20T16:30:48.949Z'
+datePublished: '2016-07-20T16:31:01.750Z'
 sourcePath: _posts/2016-07-13-the-guardian-how-a-czech-super-spy-infiltrated-the-cia.md
 inFeed: true
 authors: []
 hasPage: true
 keywords: []
 author: []
-dateModified: '2016-07-20T16:30:47.873Z'
-title: ''
+via: {}
+dateModified: '2016-07-20T16:31:01.268Z'
+title: 'The Guardian: How a Czech "super-spy" infiltrated the CIA'
 publisher: {}
-description: 'The Guardian: How a Czech "super-spy" infiltrated the CIA'
+description: 'June 30, 2016'
 inLanguage: null
 inNav: false
-via: {}
 starred: false
 url: the-guardian-how-a-czech-super-spy-infiltrated-the-cia/index.html
 _type: Article
 
 ---
-_**The Guardian**_**: How a Czech "super-spy" infiltrated the CIA**
+# _**The Guardian**_**: How a Czech "super-spy" infiltrated the CIA**
 
 June 30, 2016
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/07862e66-f260-440c-be86-c5aa577b3c01.jpg)
