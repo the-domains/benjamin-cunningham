@@ -4,7 +4,7 @@
         <description><![CDATA[Benjamin Cunningham]]></description>
         <link>http://bcunningham.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Jul 2016 16:38:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jul 2016 16:39:22 GMT</lastBuildDate>
         <atom:link href="http://bcunningham.org/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,20 @@
             <link>http://bcunningham.org/benjamin-cunningham-is-a-prague-based-writer-and-journalist/index.html</link>
             <guid isPermaLink="false">bb291640-5404-4a52-b9e2-0546d641ef9e</guid>
             <pubDate>Tue, 05 Apr 2016 09:27:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6acd10f6-227a-4b42-a4ef-cd2c11387276.jpg">]]></description>
+            <link>http://bcunningham.org/sme-the-british-referendum-is-just-a-game-but-a-dangerous/index.html</link>
+            <guid isPermaLink="false">ba20e0a4-eda9-41dc-a4e5-4d2400b78417</guid>
+            <pubDate>Wed, 20 Jul 2016 16:39:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sme: Panama Papers only reinforce populist mood]]></title>
+            <description><![CDATA[<article><h1>Sme: Panama Papers only reinforce populist mood</h1><p>April 8, 2016</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/aa8902d02e30b96cd5d3ee81d2ba427ba90a1fa3.jpg"></article>]]></description>
+            <link>http://bcunningham.org/sme-panama-papers-on-reinforce-populist-mood/index.html</link>
+            <guid isPermaLink="false">9ed75814-3607-4f4a-9ed3-2d66577628b2</guid>
+            <pubDate>Wed, 20 Jul 2016 16:38:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[LA Review of Books: Cult Classic]]></title>
@@ -61,20 +75,6 @@
             <link>http://bcunningham.org/the-economist-no-oscar-fodder-at-this-years-karlovy-vary-f/index.html</link>
             <guid isPermaLink="false">8f17b299-8a00-4bd3-8d2c-46af370900ed</guid>
             <pubDate>Wed, 13 Jul 2016 10:48:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Sme: We need to return to Greece</p>]]></description>
-            <link>http://bcunningham.org/sme-we-need-to-return-to-greece/index.html</link>
-            <guid isPermaLink="false">df1c2a30-96d1-4fca-91be-95fcd61f1ec8</guid>
-            <pubDate>Wed, 13 Jul 2016 10:40:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Sme: An electoral system dating from the imperial era helped lead to the Brexit</p>]]></description>
-            <link>http://bcunningham.org/sme-an-electoral-system-dating-from-the-imperial-era-helped/index.html</link>
-            <guid isPermaLink="false">6f968e1b-9040-4cd5-a451-e182feff21ed</guid>
-            <pubDate>Wed, 13 Jul 2016 10:33:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
