@@ -4,7 +4,7 @@
         <description><![CDATA[Benjamin Cunningham]]></description>
         <link>http://bcunningham.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Jul 2016 16:42:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jul 2016 16:42:02 GMT</lastBuildDate>
         <atom:link href="http://bcunningham.org/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,13 +12,6 @@
             <link>http://bcunningham.org/benjamin-cunningham-is-a-prague-based-writer-and-journalist/index.html</link>
             <guid isPermaLink="false">bb291640-5404-4a52-b9e2-0546d641ef9e</guid>
             <pubDate>Tue, 05 Apr 2016 09:27:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b7dffdfb-39f8-4acf-90e7-eb6c3877066b.jpg">]]></description>
-            <link>http://bcunningham.org/politico-the-unbearable-angst-of-czech-being/index.html</link>
-            <guid isPermaLink="false">0fe37fa3-d690-44c6-a07e-f43de3d1c1b5</guid>
-            <pubDate>Wed, 20 Jul 2016 16:42:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sme: An electoral system dating from the imperial era lead to the Brexit]]></title>
@@ -75,6 +68,13 @@
             <link>http://bcunningham.org/aspen-review-no-laughing-matter/index.html</link>
             <guid isPermaLink="false">57e4b079-6b1c-4b71-ac4b-96ab913c0b0b</guid>
             <pubDate>Wed, 20 Jul 2016 16:37:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Business New Europe: Slovak PM reportedly seeking an exit strategy]]></title>
+            <description><![CDATA[<article><h1>Business New Europe: Slovak PM reportedly seeking an exit strategy</h1><p>May 27, 2016</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9d7410d2-f008-49fb-8061-27ce302e1bdd.jpg"></article>]]></description>
+            <link>http://bcunningham.org/business-new-europe-slovak-pm-reportedly-seeking-an-exit-st/index.html</link>
+            <guid isPermaLink="false">416c3707-5763-4319-bcee-441d794cf9b3</guid>
+            <pubDate>Wed, 20 Jul 2016 16:35:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
