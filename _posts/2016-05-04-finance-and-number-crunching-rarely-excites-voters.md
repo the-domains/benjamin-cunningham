@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-20T16:34:10.518Z'
+datePublished: '2016-07-20T16:34:18.830Z'
 sourcePath: _posts/2016-05-04-finance-and-number-crunching-rarely-excites-voters.md
 inFeed: true
 authors: []
@@ -7,10 +7,10 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-07-20T16:34:10.093Z'
-title: ''
+dateModified: '2016-07-20T16:34:18.252Z'
+title: 'Sme: Counting Calories'
 publisher: {}
-description: 'Sme: Counting Calories'
+description: 'April 29, 2016'
 inLanguage: null
 inNav: false
 starred: false
@@ -18,7 +18,7 @@ url: finance-and-number-crunching-rarely-excites-voters/index.html
 _type: Article
 
 ---
-_**Sme**_**: Counting Calories**
+# _**Sme**_**: Counting Calories**
 
 April 29, 2016
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c0ee41ee7f15a2d74e5b690f86274a74ebe4ca9a.jpg)
