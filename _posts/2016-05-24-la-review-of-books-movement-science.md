@@ -1,23 +1,24 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-keywords: []
-description: 'LA Review of Books: Movement Science'
-datePublished: '2016-05-24T18:24:14.059Z'
-dateModified: '2016-05-24T18:24:08.664Z'
-title: ''
-author: []
+datePublished: '2016-07-20T16:44:52.220Z'
 sourcePath: _posts/2016-05-24-la-review-of-books-movement-science.md
+inFeed: true
 authors: []
-publisher: null
+hasPage: true
+keywords: []
+author: []
+dateModified: '2016-07-20T16:44:51.655Z'
+title: ''
+publisher: {}
+description: 'LA Review of Books: Movement Science'
+inLanguage: null
+inNav: false
+via: {}
 starred: false
 url: la-review-of-books-movement-science/index.html
 _type: Article
 
 ---
-**_LA Review of Books_: Movement Science**
+_**LA Review of Books**_**: Movement Science**
 
 On Tara Zahra's "The Great Departure"
 
@@ -32,6 +33,6 @@ Zahra examines the evolution of a 19th-century political innovation, but one wit
 
 Though she only touches on current events in the book's final pages --- referring to the Mediterranean Sea as a "graveyard for desperate asylum seekers" and noting the "language of freedom and slavery continues to frame the debate in contemporary Europe" --- there is little doubt that present political issues had a profound influence on her choice of subject matter. In the industrial and post-industrial ages, people are capital --- be it for digging 19th-century trenches or writing computer code in the 21st --- and competing narratives about the relative merits of migration are a constant.
 
-_To keep reading the full article visit... _
+_To keep reading the full article visit..._
 
 _https://lareviewofbooks.org/article/movement-science/_
