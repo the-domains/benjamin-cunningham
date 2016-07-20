@@ -1,24 +1,24 @@
 ---
-datePublished: '2016-07-20T16:51:42.702Z'
+datePublished: '2016-07-20T16:51:53.241Z'
 sourcePath: _posts/2016-06-16-sme-the-difference-between-fico-and-the-czechs.md
 inFeed: true
 authors: []
 hasPage: true
 keywords: []
 author: []
-dateModified: '2016-07-20T16:51:42.253Z'
-title: ''
+via: {}
+dateModified: '2016-07-20T16:51:52.677Z'
+title: 'Sme: The difference between Fico and the Czechs'
 publisher: {}
-description: 'Sme: The difference between Fico and the Czechs'
+description: 'June 10, 2016'
 inLanguage: null
 inNav: false
-via: {}
 starred: false
 url: sme-the-difference-between-fico-and-the-czechs/index.html
 _type: Article
 
 ---
-_**Sme**_**: The difference between Fico and the Czechs**
+# _**Sme**_**: The difference between Fico and the Czechs**
 
 June 10, 2016
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8f5a0d03-c7d3-47be-94b7-317a24574141.jpg)
