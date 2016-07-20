@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-20T16:51:18.357Z'
+datePublished: '2016-07-20T16:51:26.375Z'
 sourcePath: >-
   _posts/2016-04-20-the-economist-the-czech-republic-awakes-to-find-itself-tran.md
 inFeed: true
@@ -7,21 +7,21 @@ authors: []
 hasPage: true
 keywords: []
 author: []
-dateModified: '2016-07-20T16:51:17.572Z'
-title: ''
-publisher: {}
-description: >-
+via: {}
+dateModified: '2016-07-20T16:51:25.842Z'
+title: >-
   The Economist: The Czech Republic awakes to find itself transformed into
   Czechia
+publisher: {}
+description: 'April 19, 2016'
 inLanguage: null
 inNav: false
-via: {}
 starred: false
 url: the-economist-the-czech-republic-awakes-to-find-itself-tran/index.html
 _type: Article
 
 ---
-_**The Economist**_**: The Czech Republic awakes to find itself transformed into Czechia**
+# _**The Economist**_**: The Czech Republic awakes to find itself transformed into Czechia**
 
 April 19, 2016
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/801c7a97-79fa-4614-ad77-f4805e95a1bc.jpg)
