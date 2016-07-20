@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-20T16:37:52.902Z'
+datePublished: '2016-07-20T16:38:04.764Z'
 sourcePath: _posts/2016-04-01-cult-classic.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-07-20T16:37:52.232Z'
+dateModified: '2016-07-20T16:38:04.288Z'
 title: ''
 publisher: {}
 description: 'LA Review of Books: Cult Classic'
