@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-20T16:48:45.361Z'
+datePublished: '2016-07-20T16:48:58.837Z'
 sourcePath: _posts/2016-04-27-sme-media-should-not-be-weaponized.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-07-20T16:48:44.929Z'
+dateModified: '2016-07-20T16:48:58.390Z'
 title: ''
 publisher: {}
 description: 'Sme: Media should not be weaponized'
@@ -22,8 +22,6 @@ _type: Article
 
 If the latest report released by Reporters Without Borders is to be believed, last year was a bad one for journalism. Though Slovakia ranks high, 12th, in this annual global ranking of press freedom, Europe and Central Europe fare less well. Most interesting the report cites a "progressive erosion of the European model" whereby "counter-espionage and counter-terrorist measures were misused" as an explanation for Europe's decline.
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/1df13a929614d72d7d7b2afb2e42b889d5267984.jpg)
-
-April 22, 2016
 
 If the latest report released by Reporters Without Borders is to be believed, last year was a bad one for journalism. Though Slovakia ranks high, 12th, in this annual global ranking of press freedom, Europe and Central Europe fare less well. Most interesting the report cites a "progressive erosion of the European model" whereby "counter-espionage and counter-terrorist measures were misused" as an explanation for Europe's decline.
 
