@@ -4,7 +4,7 @@
         <description><![CDATA[Benjamin Cunningham]]></description>
         <link>http://bcunningham.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Jul 2016 16:39:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jul 2016 16:40:17 GMT</lastBuildDate>
         <atom:link href="http://bcunningham.org/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>http://bcunningham.org/benjamin-cunningham-is-a-prague-based-writer-and-journalist/index.html</link>
             <guid isPermaLink="false">bb291640-5404-4a52-b9e2-0546d641ef9e</guid>
             <pubDate>Tue, 05 Apr 2016 09:27:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Politico: Migrants are Central Europe's new Roma]]></title>
+            <description><![CDATA[<article><h1>Politico: Migrants are Central Europe's new Roma</h1><p>April 5, 2016</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/05dec601-8c05-486a-96ef-a17932e526a4.jpg"></article>]]></description>
+            <link>http://bcunningham.org/politico-migrants-are-central-europes-new-roma/index.html</link>
+            <guid isPermaLink="false">d3ccc1aa-801b-42f0-822f-c510a41cc93d</guid>
+            <pubDate>Wed, 20 Jul 2016 16:40:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sme: The British referendum is just a game, but a dangerous one]]></title>
@@ -68,13 +75,6 @@
             <link>http://bcunningham.org/the-guardian-how-a-czech-super-spy-infiltrated-the-cia/index.html</link>
             <guid isPermaLink="false">9bb41b09-74b0-4f14-a7fd-d0f2b4516512</guid>
             <pubDate>Wed, 20 Jul 2016 16:31:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>The Economist: No Oscar fodder at this year's Karlovy Vary film festival</p>]]></description>
-            <link>http://bcunningham.org/the-economist-no-oscar-fodder-at-this-years-karlovy-vary-f/index.html</link>
-            <guid isPermaLink="false">8f17b299-8a00-4bd3-8d2c-46af370900ed</guid>
-            <pubDate>Wed, 13 Jul 2016 10:48:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
