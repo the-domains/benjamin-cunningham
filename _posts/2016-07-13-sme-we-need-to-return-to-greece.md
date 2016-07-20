@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-20T16:46:54.475Z'
+datePublished: '2016-07-20T16:47:00.589Z'
 sourcePath: _posts/2016-07-13-sme-we-need-to-return-to-greece.md
 inFeed: true
 authors: []
@@ -7,10 +7,10 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-07-20T16:46:54.032Z'
-title: ''
+dateModified: '2016-07-20T16:47:00.118Z'
+title: 'Sme: We need to return to Greece'
 publisher: {}
-description: 'Sme: We need to return to Greece'
+description: 'July 10, 2016'
 inLanguage: null
 inNav: false
 starred: false
@@ -18,7 +18,7 @@ url: sme-we-need-to-return-to-greece/index.html
 _type: Article
 
 ---
-_**Sme**_**: We need to return to Greece**
+# _**Sme**_**: We need to return to Greece**
 
 July 10, 2016
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e2b08437-3268-497f-9f31-fa6c394419bf.jpg)
