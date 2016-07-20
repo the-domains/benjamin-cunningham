@@ -4,7 +4,7 @@
         <description><![CDATA[Benjamin Cunningham]]></description>
         <link>http://bcunningham.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Jul 2016 16:35:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jul 2016 16:35:47 GMT</lastBuildDate>
         <atom:link href="http://bcunningham.org/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -14,11 +14,18 @@
             <pubDate>Tue, 05 Apr 2016 09:27:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1f21fdb2-e194-44a8-b7da-5193bec645c2.jpg">]]></description>
+            <title><![CDATA[Business New Europe: Slovak PM reportedly seeking an exit strategy]]></title>
+            <description><![CDATA[<article><h1>Business New Europe: Slovak PM reportedly seeking an exit strategy</h1><p>May 27, 2016</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9d7410d2-f008-49fb-8061-27ce302e1bdd.jpg"></article>]]></description>
+            <link>http://bcunningham.org/business-new-europe-slovak-pm-reportedly-seeking-an-exit-st/index.html</link>
+            <guid isPermaLink="false">416c3707-5763-4319-bcee-441d794cf9b3</guid>
+            <pubDate>Wed, 20 Jul 2016 16:35:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sme: Now the bill comes due, Mr. Cameron]]></title>
+            <description><![CDATA[<article><h1>Sme: Now the bill comes due, Mr. Cameron</h1><p>June 24, 2016</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1f21fdb2-e194-44a8-b7da-5193bec645c2.jpg"></article>]]></description>
             <link>http://bcunningham.org/sme-now-the-bill-comes-due-mr-cameron/index.html</link>
             <guid isPermaLink="false">433d45be-f433-4e50-bed1-3cd32ad8eb88</guid>
-            <pubDate>Wed, 20 Jul 2016 16:34:58 GMT</pubDate>
+            <pubDate>Wed, 20 Jul 2016 16:35:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sme: Counting Calories]]></title>
@@ -68,13 +75,6 @@
             <link>http://bcunningham.org/sme-the-british-referendum-is-just-a-game-but-a-dangerous/index.html</link>
             <guid isPermaLink="false">ba20e0a4-eda9-41dc-a4e5-4d2400b78417</guid>
             <pubDate>Tue, 21 Jun 2016 10:05:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Business New Europe: Pressure grows on Slovak interior minister to resign</p>]]></description>
-            <link>http://bcunningham.org/business-new-europe-pressure-grows-on-slovak-interior-minis/index.html</link>
-            <guid isPermaLink="false">4eca3d55-3477-4e70-b9e0-ec822e9f50e7</guid>
-            <pubDate>Tue, 21 Jun 2016 09:44:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
