@@ -4,7 +4,7 @@
         <description><![CDATA[Benjamin Cunningham]]></description>
         <link>http://bcunningham.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Jul 2016 16:38:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jul 2016 16:38:38 GMT</lastBuildDate>
         <atom:link href="http://bcunningham.org/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -15,10 +15,17 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac750891-3417-4085-b904-8463b6f745e1.jpg">]]></description>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/aa8902d02e30b96cd5d3ee81d2ba427ba90a1fa3.jpg">]]></description>
+            <link>http://bcunningham.org/sme-panama-papers-on-reinforce-populist-mood/index.html</link>
+            <guid isPermaLink="false">9ed75814-3607-4f4a-9ed3-2d66577628b2</guid>
+            <pubDate>Wed, 20 Jul 2016 16:38:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[LA Review of Books: Cult Classic]]></title>
+            <description><![CDATA[<article><h1>LA Review of Books: Cult Classic</h1><p>On Mr. Kafka: And Other Tales from the Time of the Cult</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac750891-3417-4085-b904-8463b6f745e1.jpg"></article>]]></description>
             <link>http://bcunningham.org/cult-classic/index.html</link>
             <guid isPermaLink="false">3857cc35-fca1-4cda-8063-563fe5be0b96</guid>
-            <pubDate>Wed, 20 Jul 2016 16:38:04 GMT</pubDate>
+            <pubDate>Wed, 20 Jul 2016 16:38:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Aspen Review: No Laughing Matter]]></title>
@@ -68,13 +75,6 @@
             <link>http://bcunningham.org/sme-we-need-to-return-to-greece/index.html</link>
             <guid isPermaLink="false">df1c2a30-96d1-4fca-91be-95fcd61f1ec8</guid>
             <pubDate>Wed, 13 Jul 2016 10:40:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Sme: An electoral system dating from the imperial era helped lead to the Brexit</p>]]></description>
-            <link>http://bcunningham.org/sme-an-electoral-system-dating-from-the-imperial-era-helped/index.html</link>
-            <guid isPermaLink="false">6f968e1b-9040-4cd5-a451-e182feff21ed</guid>
-            <pubDate>Wed, 13 Jul 2016 10:33:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
