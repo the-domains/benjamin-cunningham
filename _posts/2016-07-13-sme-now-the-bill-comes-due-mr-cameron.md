@@ -1,18 +1,18 @@
 ---
-datePublished: '2016-07-20T16:34:45.674Z'
+datePublished: '2016-07-20T16:34:58.589Z'
 sourcePath: _posts/2016-07-13-sme-now-the-bill-comes-due-mr-cameron.md
 inFeed: true
 authors: []
 hasPage: true
 keywords: []
 author: []
-dateModified: '2016-07-20T16:34:44.543Z'
+via: {}
+dateModified: '2016-07-20T16:34:58.134Z'
 title: ''
 publisher: {}
 description: 'Sme: Now the bill comes due, Mr. Cameron'
 inLanguage: null
 inNav: false
-via: {}
 starred: false
 url: sme-now-the-bill-comes-due-mr-cameron/index.html
 _type: Article
