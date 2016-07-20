@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-20T16:43:41.413Z'
+datePublished: '2016-07-20T17:47:39.449Z'
 sourcePath: >-
   _posts/2016-07-13-the-economist-no-oscar-fodder-at-this-years-karlovy-vary-f.md
 inFeed: true
@@ -9,13 +9,13 @@ keywords: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-07-20T16:43:40.904Z'
+via: {}
+dateModified: '2016-07-20T17:47:38.288Z'
 title: 'The Economist: No Oscar fodder at this year''s Karlovy Vary film festival'
 publisher: {}
 description: 'July 11, 2016'
 inLanguage: null
 inNav: false
-via: {}
 starred: false
 url: the-economist-no-oscar-fodder-at-this-years-karlovy-vary-f/index.html
 _type: Article
@@ -24,7 +24,7 @@ _type: Article
 # _**The Economist**_**: No Oscar fodder at this year's Karlovy Vary film festival**
 
 July 11, 2016
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0f262c08645a944e41792fea23e5172a/croprotate.jpg?cropheight=798&cropwidth=1199&degrees=0&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2Fdef947b62b926ab6bb898165ff97fe3618d737fe.jpg&x=0&y=0)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6a746bc4582a9485e8bba60eba5ccb16689ea338.jpg)
 
 Though Cannes, Venice and Berlin may still get top billing among European cinephiles, there is no more beautiful setting for a film festival than the pristine Czech spa town of Karlovy Vary, where the 51st incarnation of the Karlovy Vary International Film Festival (KVIFF) wrapped on July 9th.
 
