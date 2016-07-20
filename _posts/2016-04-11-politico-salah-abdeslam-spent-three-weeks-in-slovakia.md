@@ -1,33 +1,29 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-starred: false
-keywords: []
-description: 'Politico: Salah Abdeslam spent three weeks in Slovakia'
-datePublished: '2016-04-20T08:15:46.994Z'
-dateModified: '2016-04-11T15:40:57.724Z'
-title: ''
-author: []
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+datePublished: '2016-07-20T16:49:29.446Z'
 sourcePath: _posts/2016-04-11-politico-salah-abdeslam-spent-three-weeks-in-slovakia.md
-published: true
+inFeed: true
+authors: []
+hasPage: true
+keywords: []
+author: []
+dateModified: '2016-07-20T16:49:28.836Z'
+title: ''
+publisher: {}
+description: 'Politico: Salah Abdeslam spent three weeks in Slovakia'
+inLanguage: null
+inNav: false
+via: {}
+starred: false
 url: politico-salah-abdeslam-spent-three-weeks-in-slovakia/index.html
 _type: Article
 
 ---
-**_Politico_: Salah Abdeslam spent three weeks in Slovakia**
+_**Politico**_**: Salah Abdeslam spent three weeks in Slovakia**
 
 April 7, 2016
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/127cc826-06a4-48cf-bf8b-9812c07353f8.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/8fb0fe050def1f9b2850a90e354b7f613db80eb6.jpg)
 
-Paris attack suspect Salah Abdeslam spent three weeks in Slovakia last summer, according to a former Slovak Interior Ministry official, adding to reports that alleged terrorists had earlier acquired guns via the Central European country. 
+Paris attack suspect Salah Abdeslam spent three weeks in Slovakia last summer, according to a former Slovak Interior Ministry official, adding to reports that alleged terrorists had earlier acquired guns via the Central European country.
 
 The Slovak news site Aktuality.sk first reported Abdeslam's stay, citing two independent Interior Ministry sources. A former minister official confirmed the information for POLITICO. The exact timeline of his Slovak stay remains murky, but it appears to have been in the summer of 2015 when he was apparently in Nitra, a western Slovak city of 80,000 people, according to the former official.
 
