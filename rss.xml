@@ -4,7 +4,7 @@
         <description><![CDATA[Benjamin Cunningham]]></description>
         <link>http://bcunningham.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Jul 2016 16:43:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jul 2016 16:44:28 GMT</lastBuildDate>
         <atom:link href="http://bcunningham.org/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,20 @@
             <link>http://bcunningham.org/benjamin-cunningham-is-a-prague-based-writer-and-journalist/index.html</link>
             <guid isPermaLink="false">bb291640-5404-4a52-b9e2-0546d641ef9e</guid>
             <pubDate>Tue, 05 Apr 2016 09:27:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a4a791c8-e0e5-442a-9df9-b0cc5e92a23a.jpg">]]></description>
+            <link>http://bcunningham.org/the-economist-the-charms-of-twitterature/index.html</link>
+            <guid isPermaLink="false">cbf04b5a-95ee-4e31-be6e-c335f3258f64</guid>
+            <pubDate>Wed, 20 Jul 2016 16:44:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sme: Slovakia rolls of the tongue. What about the rest of Czechoslovakia?]]></title>
+            <description><![CDATA[<article><h1>Sme: Slovakia rolls of the tongue. What about the rest of Czechoslovakia?</h1><p>April 15, 2016</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8c2222ca-bbdc-4e0e-8f3b-c4e9dcde0aa6.jpg"></article>]]></description>
+            <link>http://bcunningham.org/sme-slovakia-rolls-of-the-tongue-what-about-the-rest-of-cz/index.html</link>
+            <guid isPermaLink="false">4ecaa08b-cf50-49ae-b020-85044b6373df</guid>
+            <pubDate>Wed, 20 Jul 2016 16:44:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Economist: No Oscar fodder at this year's Karlovy Vary film festival]]></title>
@@ -61,20 +75,6 @@
             <link>http://bcunningham.org/politico-migrants-are-central-europes-new-roma/index.html</link>
             <guid isPermaLink="false">d3ccc1aa-801b-42f0-822f-c510a41cc93d</guid>
             <pubDate>Wed, 20 Jul 2016 16:40:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sme: The British referendum is just a game, but a dangerous one]]></title>
-            <description><![CDATA[<article><h1>Sme: The British referendum is just a game, but a dangerous one</h1><p>June 18, 2016</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6acd10f6-227a-4b42-a4ef-cd2c11387276.jpg"></article>]]></description>
-            <link>http://bcunningham.org/sme-the-british-referendum-is-just-a-game-but-a-dangerous/index.html</link>
-            <guid isPermaLink="false">ba20e0a4-eda9-41dc-a4e5-4d2400b78417</guid>
-            <pubDate>Wed, 20 Jul 2016 16:39:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sme: Panama Papers only reinforce populist mood]]></title>
-            <description><![CDATA[<article><h1>Sme: Panama Papers only reinforce populist mood</h1><p>April 8, 2016</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/aa8902d02e30b96cd5d3ee81d2ba427ba90a1fa3.jpg"></article>]]></description>
-            <link>http://bcunningham.org/sme-panama-papers-on-reinforce-populist-mood/index.html</link>
-            <guid isPermaLink="false">9ed75814-3607-4f4a-9ed3-2d66577628b2</guid>
-            <pubDate>Wed, 20 Jul 2016 16:38:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
