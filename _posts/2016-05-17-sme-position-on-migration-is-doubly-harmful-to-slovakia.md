@@ -1,18 +1,18 @@
 ---
-datePublished: '2016-07-20T16:47:19.929Z'
+datePublished: '2016-07-20T16:47:36.213Z'
 sourcePath: _posts/2016-05-17-sme-position-on-migration-is-doubly-harmful-to-slovakia.md
 inFeed: true
 authors: []
 hasPage: true
 keywords: []
 author: []
-dateModified: '2016-07-20T16:47:18.944Z'
+via: {}
+dateModified: '2016-07-20T16:47:35.778Z'
 title: ''
 publisher: {}
 description: 'Sme: Position on migration is doubly harmful to Slovakia'
 inLanguage: null
 inNav: false
-via: {}
 starred: false
 url: sme-position-on-migration-is-doubly-harmful-to-slovakia/index.html
 _type: Article
@@ -20,10 +20,10 @@ _type: Article
 ---
 _**Sme**_**: Position on migration is doubly harmful to Slovakia**
 
-Who do you have more in common with? A muslim Syrian family fleeing war zone, or a neo-Nazi skinhead?
-
 May 6, 2016
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c15c5754-3975-4e1b-8152-10c5a3b03324.jpg)
+
+Who do you have more in common with? A muslim Syrian family fleeing war zone, or a neo-Nazi skinhead?
 
 One hopes that most readers of this column would say they can find more similarities with the former. And yet thus far Slovak society is only proving accommodating to the latter, while the policies of the Slovak government is more similar to Marian Kotleba's than it is in to Angel Merkel's.
 
