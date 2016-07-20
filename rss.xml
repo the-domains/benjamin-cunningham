@@ -4,7 +4,7 @@
         <description><![CDATA[Benjamin Cunningham]]></description>
         <link>http://bcunningham.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Jul 2016 16:40:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jul 2016 16:40:51 GMT</lastBuildDate>
         <atom:link href="http://bcunningham.org/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>http://bcunningham.org/benjamin-cunningham-is-a-prague-based-writer-and-journalist/index.html</link>
             <guid isPermaLink="false">bb291640-5404-4a52-b9e2-0546d641ef9e</guid>
             <pubDate>Tue, 05 Apr 2016 09:27:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sme: Dear England!]]></title>
+            <description><![CDATA[<article><h1>Sme: Dear England!</h1><p>June 3, 2016</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a84acdb8-2cb0-4e91-a5ff-99e3b93ac590.jpg"></article>]]></description>
+            <link>http://bcunningham.org/sme-dear-england/index.html</link>
+            <guid isPermaLink="false">053c3834-340f-4604-9eab-d317f53c6c4b</guid>
+            <pubDate>Wed, 20 Jul 2016 16:40:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Politico: Migrants are Central Europe's new Roma]]></title>
@@ -68,13 +75,6 @@
             <link>http://bcunningham.org/finance-and-number-crunching-rarely-excites-voters/index.html</link>
             <guid isPermaLink="false">a5fd9d38-71db-45d9-b81e-597342d451f8</guid>
             <pubDate>Wed, 20 Jul 2016 16:34:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Guardian: How a Czech "super-spy" infiltrated the CIA]]></title>
-            <description><![CDATA[<article><h1>The Guardian: How a Czech "super-spy" infiltrated the CIA</h1><p>June 30, 2016</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/07862e66-f260-440c-be86-c5aa577b3c01.jpg"></article>]]></description>
-            <link>http://bcunningham.org/the-guardian-how-a-czech-super-spy-infiltrated-the-cia/index.html</link>
-            <guid isPermaLink="false">9bb41b09-74b0-4f14-a7fd-d0f2b4516512</guid>
-            <pubDate>Wed, 20 Jul 2016 16:31:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
