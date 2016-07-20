@@ -1,18 +1,18 @@
 ---
-datePublished: '2016-07-20T16:46:11.296Z'
+datePublished: '2016-07-20T16:46:24.685Z'
 sourcePath: _posts/2016-07-13-sme-we-need-to-return-to-greece.md
 inFeed: true
 authors: []
 hasPage: true
 keywords: []
 author: []
-dateModified: '2016-07-20T16:46:10.760Z'
+via: {}
+dateModified: '2016-07-20T16:46:23.951Z'
 title: ''
 publisher: {}
 description: 'Sme: We need to return to Greece'
 inLanguage: null
 inNav: false
-via: {}
 starred: false
 url: sme-we-need-to-return-to-greece/index.html
 _type: Article
@@ -22,7 +22,7 @@ _**Sme**_**: We need to return to Greece**
 
 July 10, 2016
 
-I just returned from a week's vacation in Rhodes, and I was also there a year ago exactly when the banks were closed. This year all anybody could talk about was the recent Brexit vote. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e2b08437-3268-497f-9f31-fa6c394419bf.jpg)
+I just returned from a week's vacation in Rhodes, and I was also there a year ago exactly when the banks were closed. This year all anybody could talk about was the recent Brexit vote. 
 
 I just returned from a week's vacation in Rhodes, and I was also there a year ago exactly when the banks were closed. This year all anybody could talk about was the recent Brexit vote. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e2b08437-3268-497f-9f31-fa6c394419bf.jpg)
 
