@@ -4,7 +4,7 @@
         <description><![CDATA[Benjamin Cunningham]]></description>
         <link>http://bcunningham.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Jul 2016 16:49:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jul 2016 16:51:21 GMT</lastBuildDate>
         <atom:link href="http://bcunningham.org/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,27 @@
             <link>http://bcunningham.org/benjamin-cunningham-is-a-prague-based-writer-and-journalist/index.html</link>
             <guid isPermaLink="false">bb291640-5404-4a52-b9e2-0546d641ef9e</guid>
             <pubDate>Tue, 05 Apr 2016 09:27:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/801c7a97-79fa-4614-ad77-f4805e95a1bc.jpg">]]></description>
+            <link>http://bcunningham.org/the-economist-the-czech-republic-awakes-to-find-itself-tran/index.html</link>
+            <guid isPermaLink="false">ec72fdd2-2894-4395-b3cf-91b3bcde65bf</guid>
+            <pubDate>Wed, 20 Jul 2016 16:51:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Aspen Review: Centrifugal Force]]></title>
+            <description><![CDATA[<article><h1>Aspen Review: Centrifugal Force</h1><p>On Wandering Jew: The Search for Joseph Roth by Denis Marks</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9931ca14-c5f4-48f6-97e2-cfd5c1c7a117.jpg"></article>]]></description>
+            <link>http://bcunningham.org/aspen-review-centrifugal-force/index.html</link>
+            <guid isPermaLink="false">85b11fa0-f02e-4bd4-8997-e940ae005f79</guid>
+            <pubDate>Wed, 20 Jul 2016 16:50:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sme: Your neighbors in the Czech Republic have gone crazy]]></title>
+            <description><![CDATA[<article><h1>Sme: Your neighbors in the Czech Republic have gone crazy</h1><p>April 1, 2016</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d767e7c1-41c7-4ce2-ae7a-4a6fcc7f4a8c.jpg"></article>]]></description>
+            <link>http://bcunningham.org/sme-your-neighbors-in-the-czech-republic-are-crazy/index.html</link>
+            <guid isPermaLink="false">e2e08e6e-8ca1-4dc8-b94d-a092dd91c3c2</guid>
+            <pubDate>Wed, 20 Jul 2016 16:50:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Politico: Salah Abdeslam spent three weeks in Slovakia]]></title>
@@ -54,27 +75,6 @@
             <link>http://bcunningham.org/sme-politics-have-been-replaced-with-management/index.html</link>
             <guid isPermaLink="false">466dcb7f-0039-414c-950c-db0e4300f234</guid>
             <pubDate>Wed, 20 Jul 2016 16:45:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[LA Review of Books: Movement Science]]></title>
-            <description><![CDATA[<article><h1>LA Review of Books: Movement Science</h1><p>May 24, 2016</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ebc30211-e53e-4003-bbe3-965a89cbe1e3.jpg"></article>]]></description>
-            <link>http://bcunningham.org/la-review-of-books-movement-science/index.html</link>
-            <guid isPermaLink="false">ba7d836f-beb0-4b96-9b42-2800dd24a03f</guid>
-            <pubDate>Wed, 20 Jul 2016 16:45:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Economist: The charms of Twitterature]]></title>
-            <description><![CDATA[<article><h1>The Economist: The charms of Twitterature</h1><p>May 30, 2016</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a4a791c8-e0e5-442a-9df9-b0cc5e92a23a.jpg"></article>]]></description>
-            <link>http://bcunningham.org/the-economist-the-charms-of-twitterature/index.html</link>
-            <guid isPermaLink="false">cbf04b5a-95ee-4e31-be6e-c335f3258f64</guid>
-            <pubDate>Wed, 20 Jul 2016 16:44:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sme: Slovakia rolls of the tongue. What about the rest of Czechoslovakia?]]></title>
-            <description><![CDATA[<article><h1>Sme: Slovakia rolls of the tongue. What about the rest of Czechoslovakia?</h1><p>April 15, 2016</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8c2222ca-bbdc-4e0e-8f3b-c4e9dcde0aa6.jpg"></article>]]></description>
-            <link>http://bcunningham.org/sme-slovakia-rolls-of-the-tongue-what-about-the-rest-of-cz/index.html</link>
-            <guid isPermaLink="false">4ecaa08b-cf50-49ae-b020-85044b6373df</guid>
-            <pubDate>Wed, 20 Jul 2016 16:44:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
