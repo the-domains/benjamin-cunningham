@@ -1,22 +1,18 @@
 ---
-datePublished: '2016-07-20T16:33:31.122Z'
+datePublished: '2016-07-20T16:33:38.020Z'
 sourcePath: _posts/2016-05-04-finance-and-number-crunching-rarely-excites-voters.md
 inFeed: true
 authors: []
 hasPage: true
 keywords: []
 author: []
-dateModified: '2016-07-20T16:33:30.592Z'
+via: {}
+dateModified: '2016-07-20T16:33:37.435Z'
 title: ''
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: {}
 description: 'Sme: Counting Calories'
 inLanguage: null
 inNav: false
-via: {}
 starred: false
 url: finance-and-number-crunching-rarely-excites-voters/index.html
 _type: Article
@@ -30,8 +26,6 @@ April 29, 2016
 Finance and number crunching rarely excites voters.
 
 But dishonesty does. When Prime Minister Robert Fico's government said it would run a budget deficit of 2.49 percent last year --- an election year --- many economists laughed. It turns out they had reason to as Eurostat, the European Union's official statistical body, now estimates the deficit was actually 2.97 percent.
-
-April 29, 2016
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c0ee41ee7f15a2d74e5b690f86274a74ebe4ca9a.jpg)
 
 That is 19 percent higher than the government projected, so it is not a near miss. For sake of illustration, the difference is the same as the number of calories one would ingest by having a McDonald's Big Mac for a snack versus a banana with cottage cheese.
