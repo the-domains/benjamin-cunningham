@@ -4,7 +4,7 @@
         <description><![CDATA[Benjamin Cunningham]]></description>
         <link>http://bcunningham.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Jul 2016 16:40:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jul 2016 16:41:14 GMT</lastBuildDate>
         <atom:link href="http://bcunningham.org/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>http://bcunningham.org/benjamin-cunningham-is-a-prague-based-writer-and-journalist/index.html</link>
             <guid isPermaLink="false">bb291640-5404-4a52-b9e2-0546d641ef9e</guid>
             <pubDate>Tue, 05 Apr 2016 09:27:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/216cf6d9-0bd0-4c5a-ad95-ff7c03d894d4.jpg">]]></description>
+            <link>http://bcunningham.org/business-new-europe-pressure-grows-on-slovak-interior-minis/index.html</link>
+            <guid isPermaLink="false">4eca3d55-3477-4e70-b9e0-ec822e9f50e7</guid>
+            <pubDate>Wed, 20 Jul 2016 16:41:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sme: Dear England!]]></title>
@@ -68,13 +75,6 @@
             <link>http://bcunningham.org/sme-now-the-bill-comes-due-mr-cameron/index.html</link>
             <guid isPermaLink="false">433d45be-f433-4e50-bed1-3cd32ad8eb88</guid>
             <pubDate>Wed, 20 Jul 2016 16:35:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sme: Counting Calories]]></title>
-            <description><![CDATA[<article><h1>Sme: Counting Calories</h1><p>April 29, 2016</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ceca1756b9debfd4c370aca399b9e75c/croprotate.jpg?cropheight=2116&cropwidth=2571&degrees=0&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2Fc0ee41ee7f15a2d74e5b690f86274a74ebe4ca9a.jpg&x=0&y=0"></article>]]></description>
-            <link>http://bcunningham.org/finance-and-number-crunching-rarely-excites-voters/index.html</link>
-            <guid isPermaLink="false">a5fd9d38-71db-45d9-b81e-597342d451f8</guid>
-            <pubDate>Wed, 20 Jul 2016 16:34:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
