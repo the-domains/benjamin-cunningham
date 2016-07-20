@@ -1,38 +1,39 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-keywords: []
-description: 'The Guardian: How a Czech "super-spy" infiltrated the CIA'
-datePublished: '2016-07-13T11:07:14.016Z'
-dateModified: '2016-07-13T11:06:51.637Z'
-title: ''
-author: []
-authors: []
-publisher: null
-starred: false
+datePublished: '2016-07-20T16:30:48.949Z'
 sourcePath: _posts/2016-07-13-the-guardian-how-a-czech-super-spy-infiltrated-the-cia.md
+inFeed: true
+authors: []
+hasPage: true
+keywords: []
+author: []
+dateModified: '2016-07-20T16:30:47.873Z'
+title: ''
+publisher: {}
+description: 'The Guardian: How a Czech "super-spy" infiltrated the CIA'
+inLanguage: null
+inNav: false
+via: {}
+starred: false
 url: the-guardian-how-a-czech-super-spy-infiltrated-the-cia/index.html
 _type: Article
 
 ---
-**_The Guardian_: How a Czech "super-spy" infiltrated the CIA**
+_**The Guardian**_**: How a Czech "super-spy" infiltrated the CIA**
 
 June 30, 2016
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/07862e66-f260-440c-be86-c5aa577b3c01.jpg)
 
-On a cold February night in 1986, Berlin's Glienicke Bridge became the scene of the cold war's last ever prisoner exchange -- a dramatic hand-over involving a Soviet dissident and Karel Koecher, the only foreign agent ever known to have infiltrated the CIA. 
+On a cold February night in 1986, Berlin's Glienicke Bridge became the scene of the cold war's last ever prisoner exchange -- a dramatic hand-over involving a Soviet dissident and Karel Koecher, the only foreign agent ever known to have infiltrated the CIA.
 
-Koecher was a Czech citizen who had been living undercover in the US for 21 years. Alternately codenamed Rino, Turian or Pedro, he had moved to America in 1965 to establish himself as a mole within the CIA. Koecher's KGB case officer, Colonel Alexander Sokolov, would later call him a super-spy. 
+Koecher was a Czech citizen who had been living undercover in the US for 21 years. Alternately codenamed Rino, Turian or Pedro, he had moved to America in 1965 to establish himself as a mole within the CIA. Koecher's KGB case officer, Colonel Alexander Sokolov, would later call him a super-spy.
 
-According to files held by Czech secret police, his wife, Hana Koecherova, codenamed Adrid, had distributed secret messages on Koecher's behalf during their decades abroad but was never charged with espionage. 
+According to files held by Czech secret police, his wife, Hana Koecherova, codenamed Adrid, had distributed secret messages on Koecher's behalf during their decades abroad but was never charged with espionage.
 
-For years she had been a New York City diamond dealer. Everyone in the business loved her. Living in the couple's flat at 50 East 89th Street in Manhattan, a block from the Guggenheim, Hana's neighbours were Mel Brooks and Anne Bancroft, and tennis star Ivan Lendl. 
+For years she had been a New York City diamond dealer. Everyone in the business loved her. Living in the couple's flat at 50 East 89th Street in Manhattan, a block from the Guggenheim, Hana's neighbours were Mel Brooks and Anne Bancroft, and tennis star Ivan Lendl.
 
-But in 1986 Hana was on her way back to a very different world -- Czechoslovakia was a stifling place in the mid-80s. 
+But in 1986 Hana was on her way back to a very different world -- Czechoslovakia was a stifling place in the mid-80s.
 
-Koecher was eager to cross the bridge. After spending years as a sleeper agent he had eventually obtained a job and top secret security clearance with the CIA. When he fell out of favour with his Soviet handlers in Prague, he bypassed the Czechoslovak state security, the StB, and reported directly to the KGB in Moscow. 
+Koecher was eager to cross the bridge. After spending years as a sleeper agent he had eventually obtained a job and top secret security clearance with the CIA. When he fell out of favour with his Soviet handlers in Prague, he bypassed the Czechoslovak state security, the StB, and reported directly to the KGB in Moscow.
 
 After two decades in the US he was finally arrested by the FBI, and by February 1986 he had been held for 14 months awaiting trial in New York City's Metropolitan Correctional Centre, where a fellow prisoner had tried to stab him to death.
 
