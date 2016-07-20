@@ -1,24 +1,24 @@
 ---
-datePublished: '2016-07-20T16:49:29.446Z'
+datePublished: '2016-07-20T16:49:56.178Z'
 sourcePath: _posts/2016-04-11-politico-salah-abdeslam-spent-three-weeks-in-slovakia.md
 inFeed: true
 authors: []
 hasPage: true
 keywords: []
 author: []
-dateModified: '2016-07-20T16:49:28.836Z'
-title: ''
+via: {}
+dateModified: '2016-07-20T16:49:55.525Z'
+title: 'Politico: Salah Abdeslam spent three weeks in Slovakia'
 publisher: {}
-description: 'Politico: Salah Abdeslam spent three weeks in Slovakia'
+description: 'April 7, 2016'
 inLanguage: null
 inNav: false
-via: {}
 starred: false
 url: politico-salah-abdeslam-spent-three-weeks-in-slovakia/index.html
 _type: Article
 
 ---
-_**Politico**_**: Salah Abdeslam spent three weeks in Slovakia**
+# _**Politico**_**: Salah Abdeslam spent three weeks in Slovakia**
 
 April 7, 2016
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/8fb0fe050def1f9b2850a90e354b7f613db80eb6.jpg)
