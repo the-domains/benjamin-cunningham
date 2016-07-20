@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-20T16:36:57.471Z'
+datePublished: '2016-07-20T16:37:16.789Z'
 sourcePath: _posts/2016-04-05-aspen-review-no-laughing-matter.md
 inFeed: true
 authors: []
@@ -9,10 +9,10 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-07-20T16:36:57.122Z'
-title: ''
+dateModified: '2016-07-20T16:37:16.159Z'
+title: 'Aspen Review: No Laughing Matter'
 publisher: {}
-description: 'Aspen Review: No Laughing Matter'
+description: 'April 1, 2016'
 inLanguage: null
 inNav: false
 starred: false
@@ -20,7 +20,7 @@ url: aspen-review-no-laughing-matter/index.html
 _type: Article
 
 ---
-_**Aspen Review**_**: No Laughing Matter**
+# _**Aspen Review**_**: No Laughing Matter**
 
 April 1, 2016
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f102e15c-6b61-4806-b374-9f3ceb8a521d.jpg)
