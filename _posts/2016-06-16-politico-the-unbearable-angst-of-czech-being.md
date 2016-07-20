@@ -1,24 +1,24 @@
 ---
-datePublished: '2016-07-20T16:42:15.892Z'
+datePublished: '2016-07-20T16:42:33.407Z'
 sourcePath: _posts/2016-06-16-politico-the-unbearable-angst-of-czech-being.md
 inFeed: true
 authors: []
 hasPage: true
 keywords: []
 author: []
-dateModified: '2016-07-20T16:42:15.416Z'
-title: ''
+via: {}
+dateModified: '2016-07-20T16:42:32.956Z'
+title: 'Politico: The Unbearable angst of Czech being'
 publisher: {}
-description: 'Politico: The Unbearable angst of Czech being'
+description: 'June 13, 2016'
 inLanguage: null
 inNav: false
-via: {}
 starred: false
 url: politico-the-unbearable-angst-of-czech-being/index.html
 _type: Article
 
 ---
-_**Politico**_**: The Unbearable angst of Czech being**
+# _**Politico**_**: The Unbearable angst of Czech being**
 
 June 13, 2016
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b7dffdfb-39f8-4acf-90e7-eb6c3877066b.jpg)
