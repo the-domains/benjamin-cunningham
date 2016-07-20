@@ -4,7 +4,7 @@
         <description><![CDATA[Benjamin Cunningham]]></description>
         <link>http://bcunningham.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Jul 2016 16:37:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jul 2016 16:37:48 GMT</lastBuildDate>
         <atom:link href="http://bcunningham.org/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>http://bcunningham.org/benjamin-cunningham-is-a-prague-based-writer-and-journalist/index.html</link>
             <guid isPermaLink="false">bb291640-5404-4a52-b9e2-0546d641ef9e</guid>
             <pubDate>Tue, 05 Apr 2016 09:27:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac750891-3417-4085-b904-8463b6f745e1.jpg">]]></description>
+            <link>http://bcunningham.org/cult-classic/index.html</link>
+            <guid isPermaLink="false">3857cc35-fca1-4cda-8063-563fe5be0b96</guid>
+            <pubDate>Wed, 20 Jul 2016 16:37:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Aspen Review: No Laughing Matter]]></title>
@@ -68,13 +75,6 @@
             <link>http://bcunningham.org/sme-an-electoral-system-dating-from-the-imperial-era-helped/index.html</link>
             <guid isPermaLink="false">6f968e1b-9040-4cd5-a451-e182feff21ed</guid>
             <pubDate>Wed, 13 Jul 2016 10:33:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Aspen Review: Centrifugal Force</p>]]></description>
-            <link>http://bcunningham.org/aspen-review-centrifugal-force/index.html</link>
-            <guid isPermaLink="false">85b11fa0-f02e-4bd4-8997-e940ae005f79</guid>
-            <pubDate>Tue, 21 Jun 2016 10:21:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
