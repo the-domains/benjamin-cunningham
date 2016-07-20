@@ -1,28 +1,24 @@
 ---
-datePublished: '2016-07-20T16:38:36.596Z'
+datePublished: '2016-07-20T16:38:51.745Z'
 sourcePath: _posts/2016-04-11-sme-panama-papers-on-reinforce-populist-mood.md
 inFeed: true
 authors: []
 hasPage: true
 keywords: []
 author: []
-dateModified: '2016-07-20T16:38:35.875Z'
-title: ''
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
-description: 'Sme: Panama Papers only reinforce populist mood'
+via: {}
+dateModified: '2016-07-20T16:38:50.844Z'
+title: 'Sme: Panama Papers only reinforce populist mood'
+publisher: {}
+description: 'April 8, 2016'
 inLanguage: null
 inNav: false
-via: {}
 starred: false
 url: sme-panama-papers-on-reinforce-populist-mood/index.html
 _type: Article
 
 ---
-_**Sme**_**: Panama Papers only reinforce populist mood**
+# _**Sme**_**: Panama Papers only reinforce populist mood**
 
 April 8, 2016
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/aa8902d02e30b96cd5d3ee81d2ba427ba90a1fa3.jpg)
