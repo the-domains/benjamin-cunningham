@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-20T16:35:31.533Z'
+datePublished: '2016-07-20T16:35:45.958Z'
 sourcePath: >-
   _posts/2016-05-31-business-new-europe-slovak-pm-reportedly-seeking-an-exit-st.md
 inFeed: true
@@ -7,19 +7,19 @@ authors: []
 hasPage: true
 keywords: []
 author: []
-dateModified: '2016-07-20T16:35:30.969Z'
-title: ''
+via: {}
+dateModified: '2016-07-20T16:35:45.102Z'
+title: 'Business New Europe: Slovak PM reportedly seeking an exit strategy'
 publisher: {}
-description: 'Business New Europe: Slovak PM reportedly seeking an exit strategy'
+description: 'May 27, 2016'
 inLanguage: null
 inNav: false
-via: {}
 starred: false
 url: business-new-europe-slovak-pm-reportedly-seeking-an-exit-st/index.html
 _type: Article
 
 ---
-_**Business New Europe**_**: Slovak PM reportedly seeking an exit strategy**
+# _**Business New Europe**_**: Slovak PM reportedly seeking an exit strategy**
 
 May 27, 2016
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9d7410d2-f008-49fb-8061-27ce302e1bdd.jpg)
