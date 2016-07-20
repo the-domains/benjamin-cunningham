@@ -4,7 +4,7 @@
         <description><![CDATA[Benjamin Cunningham]]></description>
         <link>http://bcunningham.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Jul 2016 16:51:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jul 2016 16:51:29 GMT</lastBuildDate>
         <atom:link href="http://bcunningham.org/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>http://bcunningham.org/benjamin-cunningham-is-a-prague-based-writer-and-journalist/index.html</link>
             <guid isPermaLink="false">bb291640-5404-4a52-b9e2-0546d641ef9e</guid>
             <pubDate>Tue, 05 Apr 2016 09:27:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Economist: The Czech Republic awakes to find itself transformed into Czechia]]></title>
+            <description><![CDATA[<article><h1>The Economist: The Czech Republic awakes to find itself transformed into Czechia</h1><p>April 19, 2016</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/801c7a97-79fa-4614-ad77-f4805e95a1bc.jpg"></article>]]></description>
+            <link>http://bcunningham.org/the-economist-the-czech-republic-awakes-to-find-itself-tran/index.html</link>
+            <guid isPermaLink="false">ec72fdd2-2894-4395-b3cf-91b3bcde65bf</guid>
+            <pubDate>Wed, 20 Jul 2016 16:51:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Aspen Review: Centrifugal Force]]></title>
@@ -68,13 +75,6 @@
             <link>http://bcunningham.org/sme-politics-have-been-replaced-with-management/index.html</link>
             <guid isPermaLink="false">466dcb7f-0039-414c-950c-db0e4300f234</guid>
             <pubDate>Wed, 20 Jul 2016 16:45:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[LA Review of Books: Movement Science]]></title>
-            <description><![CDATA[<article><h1>LA Review of Books: Movement Science</h1><p>May 24, 2016</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ebc30211-e53e-4003-bbe3-965a89cbe1e3.jpg"></article>]]></description>
-            <link>http://bcunningham.org/la-review-of-books-movement-science/index.html</link>
-            <guid isPermaLink="false">ba7d836f-beb0-4b96-9b42-2800dd24a03f</guid>
-            <pubDate>Wed, 20 Jul 2016 16:45:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
