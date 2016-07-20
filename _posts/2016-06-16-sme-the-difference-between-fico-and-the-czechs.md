@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-20T17:06:56.233Z'
+datePublished: '2016-07-20T17:07:04.439Z'
 sourcePath: _posts/2016-06-16-sme-the-difference-between-fico-and-the-czechs.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-07-20T17:06:55.657Z'
+dateModified: '2016-07-20T17:07:03.067Z'
 title: 'Sme: The difference between Fico and the Czechs'
 publisher: {}
 description: 'June 10, 2016'
