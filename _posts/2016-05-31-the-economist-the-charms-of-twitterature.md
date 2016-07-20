@@ -1,24 +1,24 @@
 ---
-datePublished: '2016-07-20T16:44:25.865Z'
+datePublished: '2016-07-20T16:44:36.664Z'
 sourcePath: _posts/2016-05-31-the-economist-the-charms-of-twitterature.md
 inFeed: true
 authors: []
 hasPage: true
 keywords: []
 author: []
-dateModified: '2016-07-20T16:44:25.394Z'
-title: ''
+via: {}
+dateModified: '2016-07-20T16:44:36.174Z'
+title: 'The Economist: The charms of Twitterature'
 publisher: {}
-description: 'The Economist: The charms of Twitterature'
+description: 'May 30, 2016'
 inLanguage: null
 inNav: false
-via: {}
 starred: false
 url: the-economist-the-charms-of-twitterature/index.html
 _type: Article
 
 ---
-_**The Economist**_**: The charms of Twitterature**
+# _**The Economist**_**: The charms of Twitterature**
 
 May 30, 2016
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a4a791c8-e0e5-442a-9df9-b0cc5e92a23a.jpg)
