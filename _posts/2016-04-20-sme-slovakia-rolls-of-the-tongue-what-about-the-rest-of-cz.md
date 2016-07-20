@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-20T16:43:57.851Z'
+datePublished: '2016-07-20T16:44:07.992Z'
 sourcePath: >-
   _posts/2016-04-20-sme-slovakia-rolls-of-the-tongue-what-about-the-rest-of-cz.md
 inFeed: true
@@ -7,19 +7,19 @@ authors: []
 hasPage: true
 keywords: []
 author: []
-dateModified: '2016-07-20T16:43:57.383Z'
-title: ''
+via: {}
+dateModified: '2016-07-20T16:44:07.562Z'
+title: 'Sme: Slovakia rolls of the tongue. What about the rest of Czechoslovakia?'
 publisher: {}
-description: 'Sme: Slovakia rolls of the tongue. What about the rest of Czechoslovakia?'
+description: 'April 15, 2016'
 inLanguage: null
 inNav: false
-via: {}
 starred: false
 url: sme-slovakia-rolls-of-the-tongue-what-about-the-rest-of-cz/index.html
 _type: Article
 
 ---
-_**Sme**_**: Slovakia rolls of the tongue. What about the rest of Czechoslovakia?**
+# _**Sme**_**: Slovakia rolls of the tongue. What about the rest of Czechoslovakia?**
 
 April 15, 2016
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8c2222ca-bbdc-4e0e-8f3b-c4e9dcde0aa6.jpg)
