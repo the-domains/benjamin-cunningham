@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-20T16:49:04.305Z'
+datePublished: '2016-07-20T16:49:13.255Z'
 sourcePath: _posts/2016-04-27-sme-media-should-not-be-weaponized.md
 inFeed: true
 authors: []
@@ -7,10 +7,10 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-07-20T16:49:03.801Z'
-title: ''
+dateModified: '2016-07-20T16:49:12.689Z'
+title: 'Sme: Media should not be weaponized'
 publisher: {}
-description: 'Sme: Media should not be weaponized'
+description: 'April 22, 2016'
 inLanguage: null
 inNav: false
 starred: false
@@ -18,7 +18,7 @@ url: sme-media-should-not-be-weaponized/index.html
 _type: Article
 
 ---
-**Sme: Media should not be weaponized**
+# **Sme: Media should not be weaponized**
 
 April 22, 2016
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/1df13a929614d72d7d7b2afb2e42b889d5267984.jpg)
