@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-01T07:22:00.516Z'
+datePublished: '2016-08-01T07:25:03.506Z'
 sourcePath: _posts/2016-08-01-la-review-of-books-humanity-in-the-arts.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/1b0be105-4259-4321-978e-f326c05acdea.jpg
 author: []
 via: {}
-dateModified: '2016-08-01T07:21:59.419Z'
+dateModified: '2016-08-01T07:25:02.804Z'
 title: 'LA Review of Books: Humanity in the arts'
 publisher: {}
 description: An interview with filmmaker Danis Tanović
