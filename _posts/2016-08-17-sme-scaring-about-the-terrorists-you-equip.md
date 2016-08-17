@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-17T14:53:17.036Z'
+datePublished: '2016-08-17T14:55:54.805Z'
 sourcePath: _posts/2016-08-17-sme-scaring-about-the-terrorists-you-equip.md
 author: []
 via: {}
-dateModified: '2016-08-17T14:53:16.356Z'
+dateModified: '2016-08-17T14:55:54.157Z'
 title: 'Sme: Scaring with the terrorists you equip'
 publisher: {}
 description: 'August 5, 2016'
@@ -36,3 +36,7 @@ Last year guns purchased from the Slovak firms AFG Security and Kol Arms were us
 Not only does Mr. Fico look the other way as his country exports these weapons, but he has now actually taken the crazy step of trying to justify it publicly. He holds alarmist press conferences warning about the violent threat posed by terrorists --- people he now says he has no problem arming, so long as they pay.
 
 Now that is something to be afraid of.
+
+_To read in the original Slovak visit... _
+
+_http://komentare.sme.sk/c/20233114/strasi-teroristami-ktorych-vyzbrojuje.html_
