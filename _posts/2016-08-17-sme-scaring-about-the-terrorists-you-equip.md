@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-17T15:16:31.711Z'
+datePublished: '2016-08-17T15:19:59.736Z'
 sourcePath: _posts/2016-08-17-sme-scaring-about-the-terrorists-you-equip.md
 author: []
 via: {}
-dateModified: '2016-08-17T15:16:23.006Z'
+dateModified: '2016-08-17T15:19:49.274Z'
 title: 'Sme: Scaring people with the same terrorists you equip'
 publisher: {}
 description: 'August 5, 2016'
