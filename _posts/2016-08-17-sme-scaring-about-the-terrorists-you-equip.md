@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-17T14:55:54.805Z'
+datePublished: '2016-08-17T15:04:16.709Z'
 sourcePath: _posts/2016-08-17-sme-scaring-about-the-terrorists-you-equip.md
 author: []
 via: {}
-dateModified: '2016-08-17T14:55:54.157Z'
-title: 'Sme: Scaring with the terrorists you equip'
+dateModified: '2016-08-17T15:04:15.821Z'
+title: 'Sme: Scaring people with the same terrorists you equip'
 publisher: {}
 description: 'August 5, 2016'
 starred: false
@@ -14,7 +14,7 @@ inNav: false
 _type: MediaObject
 
 ---
-# _**Sme**_**: Scaring with the terrorists you equip**
+# _**Sme**_**: Scaring people with the same terrorists you equip**
 
 August 5, 2016
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/31ac4b51-7447-408d-9798-07cabc2a2113.jpg)
@@ -37,6 +37,6 @@ Not only does Mr. Fico look the other way as his country exports these weapons, 
 
 Now that is something to be afraid of.
 
-_To read in the original Slovak visit... _
+_To read in the original Slovak visit..._
 
 _http://komentare.sme.sk/c/20233114/strasi-teroristami-ktorych-vyzbrojuje.html_
