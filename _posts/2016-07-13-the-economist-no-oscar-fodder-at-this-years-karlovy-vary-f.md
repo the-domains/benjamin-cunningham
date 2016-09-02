@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-31T08:58:34.337Z'
+datePublished: '2016-08-31T09:04:10.184Z'
 sourcePath: >-
   _posts/2016-07-13-the-economist-no-oscar-fodder-at-this-years-karlovy-vary-f.md
 inFeed: true
@@ -10,7 +10,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-31T08:58:33.537Z'
+dateModified: '2016-08-31T09:04:09.771Z'
 title: 'The Economist: No Oscar fodder at this year''s Karlovy Vary film festival'
 publisher: {}
 description: 'July 11, 2016'
@@ -33,5 +33,3 @@ Peter the Great, Ataturk, Goethe, Beethoven and others used to take respite amid
 More than 1,000 industry buyers, sellers and distributors attended this year's event, roughly half of which travelled from outside the region. The big winner was a Hungarian film, "It's Not the Time of My Life", which not only took the prize for top film (the Crystal Globe), but also saw Szabolcs Hajdu---also the film's writer and director---win the award for best actor. In the movie, two sisters and their families are unexpectedly forced to share a small apartment in Budapest after one of the families returns from a failed attempt to take up a new life in Scotland. Though the film winks at the complicated emotions surrounding immigration, it is the insightful and humorous look at middle-aged marital tension will best translate into any language, and Mr Hajdu's decision to team up with his real life wife and son to play one of the families brings added authenticity...
 
 _To continue reading visit..._
-
-http://www.economist.com/blogs/prospero/2016/07/european-cinema
