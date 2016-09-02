@@ -1,18 +1,18 @@
 ---
-datePublished: '2016-07-20T16:40:15.308Z'
+datePublished: '2016-08-31T10:13:36.174Z'
 sourcePath: _posts/2016-04-05-politico-migrants-are-central-europes-new-roma.md
 inFeed: true
 authors: []
 hasPage: true
 keywords: []
 author: []
-dateModified: '2016-07-20T16:40:14.860Z'
+via: {}
+dateModified: '2016-08-31T10:13:35.574Z'
 title: 'Politico: Migrants are Central Europe''s new Roma'
 publisher: {}
 description: 'April 5, 2016'
 inLanguage: null
 inNav: false
-via: {}
 starred: false
 url: politico-migrants-are-central-europes-new-roma/index.html
 _type: Article
@@ -32,5 +32,3 @@ Slovakia's Prime Minister Robert Fico played on familiar stereotypes about Roma 
 On the campaign trail ahead of this month's parliamentary election, Fico repeatedly insisted Muslims would be "impossible to integrate" while vowing to prevent the creation of a "compact community" of migrants.
 
 The use of such imagery has helped fuel an anti-migrant fervor across Central Europe, making the region one of the main roadblocks to a German-led effort to establish an EU-wide policy on dealing with the migration crisis...
-
-http://www.politico.eu/article/migrants-are-central-europes-new-roma-refugees-viktor-orban-robert-fico/
