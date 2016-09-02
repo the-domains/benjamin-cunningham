@@ -1,18 +1,22 @@
 ---
-datePublished: '2016-08-31T09:54:21.007Z'
-sourcePath: _posts/2016-06-16-sme-dear-england.md
 inFeed: true
-authors: []
 hasPage: true
-keywords: []
-author: []
-via: {}
-dateModified: '2016-08-31T09:54:20.470Z'
-title: 'Sme: Dear England!'
-publisher: {}
-description: 'June 3, 2016'
-inLanguage: null
 inNav: false
+inLanguage: null
+keywords: []
+description: 'June 3, 2016'
+datePublished: '2016-08-31T09:59:22.525Z'
+dateModified: '2016-08-31T09:55:50.977Z'
+sourcePath: _posts/2016-06-16-sme-dear-england.md
+author: []
+title: 'Sme: Dear England!'
+via: {}
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
 starred: false
 url: sme-dear-england/index.html
 _type: Article
