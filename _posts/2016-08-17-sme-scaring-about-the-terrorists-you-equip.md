@@ -1,17 +1,25 @@
 ---
-datePublished: '2016-08-17T15:19:59.736Z'
+inFeed: true
+hasPage: true
+inNav: false
+inLanguage: null
+keywords: []
+description: 'August 5, 2016'
+datePublished: '2016-08-31T09:56:58.144Z'
+dateModified: '2016-08-31T09:47:41.325Z'
 sourcePath: _posts/2016-08-17-sme-scaring-about-the-terrorists-you-equip.md
 author: []
 via: {}
-dateModified: '2016-08-17T15:19:49.274Z'
 title: 'Sme: Scaring people with the same terrorists you equip'
-publisher: {}
-description: 'August 5, 2016'
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+url: sme-scaring-people-with-the-same-terrorists-you-equip/index.html
+_type: Article
 
 ---
 # _**Sme**_**: Scaring people with the same terrorists you equip**
