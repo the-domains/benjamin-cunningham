@@ -4,7 +4,7 @@
         <description><![CDATA[Writer & Journalist]]></description>
         <link>http://bcunningham.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 31 Aug 2016 10:16:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2016 10:18:28 GMT</lastBuildDate>
         <atom:link href="http://bcunningham.org/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Guardian: How a Czech "super-spy" infiltrated the CIA]]></title>
@@ -19,6 +19,13 @@
             <link>http://bcunningham.org/la-review-of-books-humanity-in-the-arts/index.html</link>
             <guid isPermaLink="false">72ab0c13-b38c-424e-a01a-5587991b1ab8</guid>
             <pubDate>Wed, 31 Aug 2016 09:35:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Aspen Review: No Laughing Matter]]></title>
+            <description><![CDATA[<article><h1>Aspen Review: No Laughing Matter</h1><p>April 1, 2016</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f102e15c-6b61-4806-b374-9f3ceb8a521d.jpg"></article>]]></description>
+            <link>http://bcunningham.org/aspen-review-no-laughing-matter/index.html</link>
+            <guid isPermaLink="false">57e4b079-6b1c-4b71-ac4b-96ab913c0b0b</guid>
+            <pubDate>Wed, 31 Aug 2016 10:18:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sme: Media should not be weaponized]]></title>
@@ -68,13 +75,6 @@
             <link>http://bcunningham.org/sme-position-on-migration-is-doubly-harmful-to-slovakia/index.html</link>
             <guid isPermaLink="false">0a56c5f4-c363-4106-a46c-9dd398cf25d2</guid>
             <pubDate>Wed, 31 Aug 2016 10:11:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sme: When was the last time you shouted in joy?]]></title>
-            <description><![CDATA[<article><h1>Sme: When was the last time you shouted in joy?</h1><p>May 22, 2016</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b043f38e-98ab-49fa-acac-6a47dc3e1ddf.jpg"></article>]]></description>
-            <link>http://bcunningham.org/sme-when-was-the-last-time-you-shouted-in-joy/index.html</link>
-            <guid isPermaLink="false">7ff26172-ccb4-4a79-a000-c005002b0d12</guid>
-            <pubDate>Wed, 31 Aug 2016 10:10:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
