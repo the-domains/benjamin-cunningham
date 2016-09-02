@@ -4,7 +4,7 @@
         <description><![CDATA[Writer & Journalist]]></description>
         <link>http://bcunningham.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 31 Aug 2016 10:18:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2016 10:20:10 GMT</lastBuildDate>
         <atom:link href="http://bcunningham.org/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Guardian: How a Czech "super-spy" infiltrated the CIA]]></title>
@@ -19,6 +19,13 @@
             <link>http://bcunningham.org/la-review-of-books-humanity-in-the-arts/index.html</link>
             <guid isPermaLink="false">72ab0c13-b38c-424e-a01a-5587991b1ab8</guid>
             <pubDate>Wed, 31 Aug 2016 09:35:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sme: Counting Calories]]></title>
+            <description><![CDATA[<article><h1>Sme: Counting Calories</h1><p>April 29, 2016</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ceca1756b9debfd4c370aca399b9e75c/croprotate.jpg?cropheight=2116&cropwidth=2571&degrees=0&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2Fc0ee41ee7f15a2d74e5b690f86274a74ebe4ca9a.jpg&x=0&y=0"></article>]]></description>
+            <link>http://bcunningham.org/finance-and-number-crunching-rarely-excites-voters/index.html</link>
+            <guid isPermaLink="false">a5fd9d38-71db-45d9-b81e-597342d451f8</guid>
+            <pubDate>Wed, 31 Aug 2016 10:20:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Aspen Review: No Laughing Matter]]></title>
@@ -68,13 +75,6 @@
             <link>http://bcunningham.org/la-review-of-books-movement-science/index.html</link>
             <guid isPermaLink="false">ba7d836f-beb0-4b96-9b42-2800dd24a03f</guid>
             <pubDate>Wed, 31 Aug 2016 10:11:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sme: Position on migration is doubly harmful to Slovakia]]></title>
-            <description><![CDATA[<article><h1>Sme: Position on migration is doubly harmful to Slovakia</h1><p>May 6, 2016</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c15c5754-3975-4e1b-8152-10c5a3b03324.jpg"></article>]]></description>
-            <link>http://bcunningham.org/sme-position-on-migration-is-doubly-harmful-to-slovakia/index.html</link>
-            <guid isPermaLink="false">0a56c5f4-c363-4106-a46c-9dd398cf25d2</guid>
-            <pubDate>Wed, 31 Aug 2016 10:11:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
