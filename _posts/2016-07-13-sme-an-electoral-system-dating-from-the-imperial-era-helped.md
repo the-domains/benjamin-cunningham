@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-20T16:41:59.733Z'
+datePublished: '2016-08-31T09:52:18.711Z'
 sourcePath: >-
   _posts/2016-07-13-sme-an-electoral-system-dating-from-the-imperial-era-helped.md
 inFeed: true
@@ -7,13 +7,13 @@ authors: []
 hasPage: true
 keywords: []
 author: []
-dateModified: '2016-07-20T16:41:58.530Z'
+via: {}
+dateModified: '2016-08-31T09:52:18.123Z'
 title: 'Sme: An electoral system dating from the imperial era lead to the Brexit'
 publisher: {}
 description: 'July 5, 2016'
 inLanguage: null
 inNav: false
-via: {}
 starred: false
 url: sme-an-electoral-system-dating-from-the-imperial-era-helped/index.html
 _type: Article
