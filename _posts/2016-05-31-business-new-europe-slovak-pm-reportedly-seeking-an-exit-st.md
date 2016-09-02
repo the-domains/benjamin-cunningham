@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-20T16:35:45.958Z'
+datePublished: '2016-08-31T10:06:37.726Z'
 sourcePath: >-
   _posts/2016-05-31-business-new-europe-slovak-pm-reportedly-seeking-an-exit-st.md
 inFeed: true
@@ -8,7 +8,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-07-20T16:35:45.102Z'
+dateModified: '2016-08-31T10:06:37.201Z'
 title: 'Business New Europe: Slovak PM reportedly seeking an exit strategy'
 publisher: {}
 description: 'May 27, 2016'
@@ -34,4 +34,4 @@ While many still suggest the uneasy alliance may amount to little more than a ca
 
 _To continue reading go to..._
 
-http://www.intellinews.com/slovak-pm-reportedly-seeking-an-exit-strategy-98418/
+<article style=""><h1>Slovak PM reportedly seeking an exit strategy</h1><p>By Ben Cunningham in Bratislava Despite public statements to the contrary, following a recent health scare Slovak Prime Minister Robert Fico is looking to leave the daily grind of politics early next year and step down, according to a Smer party source.</p><img src="http://d2l2idrff2c2gb.cloudfront.net/styles/16_9_desktop/s3/articleimages/Slovakia_PM_Robert_Fico-AP_bnePeople%20Cropped.jpg" /></article>
