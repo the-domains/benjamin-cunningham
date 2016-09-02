@@ -1,17 +1,25 @@
 ---
-datePublished: '2016-08-31T09:02:41.269Z'
-sourcePath: _posts/2016-08-17-politico-coal-baron-falls-foul-of-czech-politics.md
-author: []
-via: {}
-dateModified: '2016-08-31T09:02:40.787Z'
-title: 'Politico: Coal baron falls foul of Czech politics'
-publisher: {}
-description: 'August 16, 2016'
-starred: false
 inFeed: true
 hasPage: false
 inNav: false
-_type: MediaObject
+isBasedOnUrl: null
+inLanguage: null
+keywords: []
+description: 'August 16, 2016'
+datePublished: '2016-08-31T09:22:28.374Z'
+dateModified: '2016-08-31T09:22:20.615Z'
+sourcePath: _posts/2016-08-17-politico-coal-baron-falls-foul-of-czech-politics.md
+author: []
+via: {}
+title: 'Politico: Coal baron falls foul of Czech politics'
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+starred: false
+_type: Blurb
 
 ---
 # _**Politico**_**: Coal baron falls foul of Czech politics**
