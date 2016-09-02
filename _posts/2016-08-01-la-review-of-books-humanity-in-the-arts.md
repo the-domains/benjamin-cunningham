@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: An interview with filmmaker Danis Tanović
-datePublished: '2016-08-31T09:28:34.224Z'
-dateModified: '2016-08-31T09:28:28.708Z'
+datePublished: '2016-08-31T09:35:34.207Z'
+dateModified: '2016-08-31T09:28:41.321Z'
 sourcePath: _posts/2016-08-01-la-review-of-books-humanity-in-the-arts.md
 author: []
 via: {}
