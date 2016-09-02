@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Writer & Journalist]]></title>
-        <description><![CDATA[Writer & Journalist]]></description>
+        <title><![CDATA[Benjamin Cunningham]]></title>
+        <description><![CDATA[Benjamin Cunningham]]></description>
         <link>http://bcunningham.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 31 Aug 2016 08:38:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2016 08:50:29 GMT</lastBuildDate>
         <atom:link href="http://bcunningham.org/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Guardian: How a Czech "super-spy" infiltrated the CIA]]></title>
@@ -12,6 +12,13 @@
             <link>http://bcunningham.org/the-guardian-how-a-czech-super-spy-infiltrated-the-cia/index.html</link>
             <guid isPermaLink="false">9bb41b09-74b0-4f14-a7fd-d0f2b4516512</guid>
             <pubDate>Wed, 31 Aug 2016 08:38:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Aspen Review: Centrifugal Force]]></title>
+            <description><![CDATA[<article><h1>Aspen Review: Centrifugal Force</h1><p>On Wandering Jew: The Search for Joseph Roth by Denis Marks</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9931ca14-c5f4-48f6-97e2-cfd5c1c7a117.jpg"></article>]]></description>
+            <link>http://bcunningham.org/aspen-review-centrifugal-force/index.html</link>
+            <guid isPermaLink="false">85b11fa0-f02e-4bd4-8997-e940ae005f79</guid>
+            <pubDate>Wed, 31 Aug 2016 08:49:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -47,13 +54,6 @@
             <link>http://bcunningham.org/the-economist-the-czech-republic-awakes-to-find-itself-tran/index.html</link>
             <guid isPermaLink="false">ec72fdd2-2894-4395-b3cf-91b3bcde65bf</guid>
             <pubDate>Wed, 20 Jul 2016 16:51:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Aspen Review: Centrifugal Force]]></title>
-            <description><![CDATA[<article><h1>Aspen Review: Centrifugal Force</h1><p>On Wandering Jew: The Search for Joseph Roth by Denis Marks</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9931ca14-c5f4-48f6-97e2-cfd5c1c7a117.jpg"></article>]]></description>
-            <link>http://bcunningham.org/aspen-review-centrifugal-force/index.html</link>
-            <guid isPermaLink="false">85b11fa0-f02e-4bd4-8997-e940ae005f79</guid>
-            <pubDate>Wed, 20 Jul 2016 16:50:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sme: Your neighbors in the Czech Republic have gone crazy]]></title>
