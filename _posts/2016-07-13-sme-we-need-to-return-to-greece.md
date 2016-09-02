@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-20T16:47:00.589Z'
+datePublished: '2016-08-31T09:40:38.904Z'
 sourcePath: _posts/2016-07-13-sme-we-need-to-return-to-greece.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-07-20T16:47:00.118Z'
+dateModified: '2016-08-31T09:40:38.079Z'
 title: 'Sme: We need to return to Greece'
 publisher: {}
 description: 'July 10, 2016'
@@ -23,7 +23,7 @@ _type: Article
 July 10, 2016
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e2b08437-3268-497f-9f31-fa6c394419bf.jpg)
 
-I just returned from a week's vacation in Rhodes, and I was also there a year ago exactly when the banks were closed. This year all anybody could talk about was the recent Brexit vote. 
+I just returned from a week's vacation in Rhodes, and I was also there a year ago exactly when the banks were closed. This year all anybody could talk about was the recent Brexit vote.
 
 With England's petty domestic politics as the main distraction, the EU remains paralysed in dealing with real problems, like the migration crisis and what remains an unresolved situation in Greece. Greek GDP contracted yet again in the first quarter of 2016 (-0.5 percent), which seems a small number until you consider the low starting point --- the economy as a whole is 25 percent smaller than it was in 2008\.
 
@@ -40,5 +40,3 @@ With bills like that it is no wonder he does not plan to hire anybody soon. No w
 But I suppose none of that is important, probably about time to get back to talking about a country that doesn't want to be in the EU instead of working with the ones that do.
 
 _To read in the original Slovak visit..._
-
-http://komentare.sme.sk/c/20212042/treba-sa-vratit-do-grecka.html
