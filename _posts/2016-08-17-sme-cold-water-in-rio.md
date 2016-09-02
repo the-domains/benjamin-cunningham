@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'August 12, 2016'
-datePublished: '2016-08-31T09:56:57.089Z'
-dateModified: '2016-08-31T09:46:24.395Z'
+datePublished: '2016-08-31T10:02:26.974Z'
+dateModified: '2016-08-31T10:01:45.281Z'
 sourcePath: _posts/2016-08-17-sme-cold-water-in-rio.md
 author: []
 via: {}
