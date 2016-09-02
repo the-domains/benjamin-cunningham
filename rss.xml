@@ -4,7 +4,7 @@
         <description><![CDATA[Writer & Journalist]]></description>
         <link>http://bcunningham.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 31 Aug 2016 10:12:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2016 10:13:06 GMT</lastBuildDate>
         <atom:link href="http://bcunningham.org/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Guardian: How a Czech "super-spy" infiltrated the CIA]]></title>
@@ -19,6 +19,13 @@
             <link>http://bcunningham.org/la-review-of-books-humanity-in-the-arts/index.html</link>
             <guid isPermaLink="false">72ab0c13-b38c-424e-a01a-5587991b1ab8</guid>
             <pubDate>Wed, 31 Aug 2016 09:35:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sme: Is there any such thing as a normal country?]]></title>
+            <description><![CDATA[<article><h1>Sme: Is there any such thing as a normal country?</h1><p>May 13, 2016</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3b65acbe-a0f9-4035-a843-062eb5ddabb7.jpg"></article>]]></description>
+            <link>http://bcunningham.org/sme-is-there-any-such-thing-as-a-normal-country/index.html</link>
+            <guid isPermaLink="false">09f8f384-6181-43c4-8ab8-b7afbd11ef5d</guid>
+            <pubDate>Wed, 31 Aug 2016 10:13:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sme: Slovakia rolls of the tongue. What about the rest of Czechoslovakia?]]></title>
@@ -68,13 +75,6 @@
             <link>http://bcunningham.org/business-new-europe-slovak-pm-reportedly-seeking-an-exit-st/index.html</link>
             <guid isPermaLink="false">416c3707-5763-4319-bcee-441d794cf9b3</guid>
             <pubDate>Wed, 31 Aug 2016 10:06:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sme: The British referendum is just a game, but a dangerous one]]></title>
-            <description><![CDATA[<article><h1>Sme: The British referendum is just a game, but a dangerous one</h1><p>June 18, 2016</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6acd10f6-227a-4b42-a4ef-cd2c11387276.jpg"></article>]]></description>
-            <link>http://bcunningham.org/sme-the-british-referendum-is-just-a-game-but-a-dangerous/index.html</link>
-            <guid isPermaLink="false">ba20e0a4-eda9-41dc-a4e5-4d2400b78417</guid>
-            <pubDate>Wed, 31 Aug 2016 10:05:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
