@@ -4,7 +4,7 @@
         <description><![CDATA[Writer & Journalist]]></description>
         <link>http://bcunningham.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 31 Aug 2016 10:20:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2016 10:20:49 GMT</lastBuildDate>
         <atom:link href="http://bcunningham.org/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Guardian: How a Czech "super-spy" infiltrated the CIA]]></title>
@@ -21,8 +21,15 @@
             <pubDate>Wed, 31 Aug 2016 09:35:34 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Sme: Now the bill comes due, Mr. Cameron]]></title>
+            <description><![CDATA[<article><h1>Sme: Now the bill comes due, Mr. Cameron</h1><p>June 24, 2016</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1f21fdb2-e194-44a8-b7da-5193bec645c2.jpg"></article>]]></description>
+            <link>http://bcunningham.org/sme-now-the-bill-comes-due-mr-cameron/index.html</link>
+            <guid isPermaLink="false">433d45be-f433-4e50-bed1-3cd32ad8eb88</guid>
+            <pubDate>Wed, 31 Aug 2016 10:20:46 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Sme: Counting Calories]]></title>
-            <description><![CDATA[<article><h1>Sme: Counting Calories</h1><p>April 29, 2016</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ceca1756b9debfd4c370aca399b9e75c/croprotate.jpg?cropheight=2116&cropwidth=2571&degrees=0&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2Fc0ee41ee7f15a2d74e5b690f86274a74ebe4ca9a.jpg&x=0&y=0"></article>]]></description>
+            <description><![CDATA[<article><h1>Sme: Counting Calories</h1><p>April 29, 2016</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8647bf352aa203aff7120fe51a0007c544d0f9ef.jpg"></article>]]></description>
             <link>http://bcunningham.org/finance-and-number-crunching-rarely-excites-voters/index.html</link>
             <guid isPermaLink="false">a5fd9d38-71db-45d9-b81e-597342d451f8</guid>
             <pubDate>Wed, 31 Aug 2016 10:20:07 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://bcunningham.org/sme-slovakia-rolls-of-the-tongue-what-about-the-rest-of-cz/index.html</link>
             <guid isPermaLink="false">4ecaa08b-cf50-49ae-b020-85044b6373df</guid>
             <pubDate>Wed, 31 Aug 2016 10:12:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[LA Review of Books: Movement Science]]></title>
-            <description><![CDATA[<article><h1>LA Review of Books: Movement Science</h1><p>May 24, 2016</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ebc30211-e53e-4003-bbe3-965a89cbe1e3.jpg"></article>]]></description>
-            <link>http://bcunningham.org/la-review-of-books-movement-science/index.html</link>
-            <guid isPermaLink="false">ba7d836f-beb0-4b96-9b42-2800dd24a03f</guid>
-            <pubDate>Wed, 31 Aug 2016 10:11:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
