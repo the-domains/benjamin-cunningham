@@ -1,21 +1,25 @@
 ---
-datePublished: '2016-08-31T09:04:10.184Z'
+inFeed: true
+hasPage: true
+inNav: false
+inLanguage: null
+keywords: []
+description: 'July 11, 2016'
+datePublished: '2016-08-31T09:25:57.560Z'
+dateModified: '2016-08-31T09:25:38.349Z'
 sourcePath: >-
   _posts/2016-07-13-the-economist-no-oscar-fodder-at-this-years-karlovy-vary-f.md
-inFeed: true
-authors: []
-hasPage: true
-keywords: []
 author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-31T09:04:09.771Z'
 title: 'The Economist: No Oscar fodder at this year''s Karlovy Vary film festival'
-publisher: {}
-description: 'July 11, 2016'
-inLanguage: null
-inNav: false
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
 starred: false
 url: the-economist-no-oscar-fodder-at-this-years-karlovy-vary-f/index.html
 _type: Article
