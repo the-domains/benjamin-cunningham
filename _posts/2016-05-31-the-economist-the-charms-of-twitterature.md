@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-20T16:44:36.664Z'
+datePublished: '2016-08-31T09:48:46.673Z'
 sourcePath: _posts/2016-05-31-the-economist-the-charms-of-twitterature.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-07-20T16:44:36.174Z'
+dateModified: '2016-08-31T09:48:46.073Z'
 title: 'The Economist: The charms of Twitterature'
 publisher: {}
 description: 'May 30, 2016'
@@ -31,4 +31,4 @@ Many of his tweets read like 19th century philosophical aphorisms. This short, b
 
 _To continue reading go to..._
 
-http://www.economist.com/blogs/prospero/2016/05/aphorisms-internet-age
+<article style=""><img src="http://cdn.static-economist.com/sites/default/files/cf_images/images-magazine/2016/06/04/BK/20160604_BKP501_facebook.jpg" /><h1>The charms of Twitterature</h1><p>DIGITAL media are often (fairly) derided for playing to short attention spans. But brevity need not be synonymous with simplicity. New technologies also offer a canvas for creativity-even if the palette is confined to 140 characters.</p></article>
