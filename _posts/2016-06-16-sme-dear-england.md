@@ -1,18 +1,18 @@
 ---
-datePublished: '2016-07-20T16:40:46.669Z'
+datePublished: '2016-08-31T09:54:21.007Z'
 sourcePath: _posts/2016-06-16-sme-dear-england.md
 inFeed: true
 authors: []
 hasPage: true
 keywords: []
 author: []
-dateModified: '2016-07-20T16:40:46.006Z'
+via: {}
+dateModified: '2016-08-31T09:54:20.470Z'
 title: 'Sme: Dear England!'
 publisher: {}
 description: 'June 3, 2016'
 inLanguage: null
 inNav: false
-via: {}
 starred: false
 url: sme-dear-england/index.html
 _type: Article
@@ -44,5 +44,3 @@ Best Regards, Europe
 P.S. Yes England, even if you leave you can still participate in the European Football Championships --- but only because you never win anyway.
 
 To read in the original Slovak visit...
-
-_http://komentare.sme.sk/c/20181652/mile-anglicko.html_
