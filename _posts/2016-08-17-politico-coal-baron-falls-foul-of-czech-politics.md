@@ -6,8 +6,8 @@ isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: 'August 16, 2016'
-datePublished: '2016-08-31T09:22:28.374Z'
-dateModified: '2016-08-31T09:22:20.615Z'
+datePublished: '2016-08-31T09:24:57.972Z'
+dateModified: '2016-08-31T09:22:35.540Z'
 sourcePath: _posts/2016-08-17-politico-coal-baron-falls-foul-of-czech-politics.md
 author: []
 via: {}
