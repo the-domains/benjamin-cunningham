@@ -4,7 +4,7 @@
         <description><![CDATA[Writer & Journalist]]></description>
         <link>http://bcunningham.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 31 Aug 2016 10:11:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2016 10:12:24 GMT</lastBuildDate>
         <atom:link href="http://bcunningham.org/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Guardian: How a Czech "super-spy" infiltrated the CIA]]></title>
@@ -19,6 +19,13 @@
             <link>http://bcunningham.org/la-review-of-books-humanity-in-the-arts/index.html</link>
             <guid isPermaLink="false">72ab0c13-b38c-424e-a01a-5587991b1ab8</guid>
             <pubDate>Wed, 31 Aug 2016 09:35:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sme: Slovakia rolls of the tongue. What about the rest of Czechoslovakia?]]></title>
+            <description><![CDATA[<article><h1>Sme: Slovakia rolls of the tongue. What about the rest of Czechoslovakia?</h1><p>April 15, 2016</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8c2222ca-bbdc-4e0e-8f3b-c4e9dcde0aa6.jpg"></article>]]></description>
+            <link>http://bcunningham.org/sme-slovakia-rolls-of-the-tongue-what-about-the-rest-of-cz/index.html</link>
+            <guid isPermaLink="false">4ecaa08b-cf50-49ae-b020-85044b6373df</guid>
+            <pubDate>Wed, 31 Aug 2016 10:12:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[LA Review of Books: Movement Science]]></title>
@@ -68,13 +75,6 @@
             <link>http://bcunningham.org/sme-the-british-referendum-is-just-a-game-but-a-dangerous/index.html</link>
             <guid isPermaLink="false">ba20e0a4-eda9-41dc-a4e5-4d2400b78417</guid>
             <pubDate>Wed, 31 Aug 2016 10:05:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Business New Europe: Pressure grows on Slovak interior minister to resign]]></title>
-            <description><![CDATA[<article><h1>Business New Europe: Pressure grows on Slovak interior minister to resign</h1><p>June 15, 2016</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/216cf6d9-0bd0-4c5a-ad95-ff7c03d894d4.jpg"></article>]]></description>
-            <link>http://bcunningham.org/business-new-europe-pressure-grows-on-slovak-interior-minis/index.html</link>
-            <guid isPermaLink="false">4eca3d55-3477-4e70-b9e0-ec822e9f50e7</guid>
-            <pubDate>Wed, 31 Aug 2016 10:04:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
