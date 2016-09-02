@@ -1,13 +1,13 @@
 ---
-description: 'August 12, 2016'
-dateModified: '2016-08-17T15:02:43.955Z'
-datePublished: '2016-08-17T15:02:49.450Z'
-title: 'Sme: Cold water in Rio'
-author: []
-publisher: {}
-via: {}
-starred: false
+datePublished: '2016-08-31T09:03:35.093Z'
 sourcePath: _posts/2016-08-17-sme-cold-water-in-rio.md
+author: []
+via: {}
+dateModified: '2016-08-31T09:03:34.249Z'
+title: 'Sme: Cold water in Rio'
+publisher: {}
+description: 'August 12, 2016'
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
@@ -39,6 +39,6 @@ You see Ms. King --- who was born nearly eight years after the fall of the Berli
 
 In the end, there is only one similarity between the women's 100 metre breaststroke at Rio 2016 and the Cold War. Russia lost both.
 
-_To read in the original Slovak visit... _
+_To read in the original Slovak visit..._
 
 _http://komentare.sme.sk/c/20240107/studena-vojna-v-riu.html_
