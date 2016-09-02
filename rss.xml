@@ -4,7 +4,7 @@
         <description><![CDATA[Writer & Journalist]]></description>
         <link>http://bcunningham.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 31 Aug 2016 10:14:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2016 10:16:09 GMT</lastBuildDate>
         <atom:link href="http://bcunningham.org/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Guardian: How a Czech "super-spy" infiltrated the CIA]]></title>
@@ -19,6 +19,13 @@
             <link>http://bcunningham.org/la-review-of-books-humanity-in-the-arts/index.html</link>
             <guid isPermaLink="false">72ab0c13-b38c-424e-a01a-5587991b1ab8</guid>
             <pubDate>Wed, 31 Aug 2016 09:35:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sme: Media should not be weaponized]]></title>
+            <description><![CDATA[<article><h1>Sme: Media should not be weaponized</h1><p>April 22, 2016</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1df13a929614d72d7d7b2afb2e42b889d5267984.jpg"></article>]]></description>
+            <link>http://bcunningham.org/sme-media-should-not-be-weaponized/index.html</link>
+            <guid isPermaLink="false">e3e9cb0d-22cc-4e59-bb16-56641ddcf85c</guid>
+            <pubDate>Wed, 31 Aug 2016 10:15:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sme: Panama Papers only reinforce populist mood]]></title>
@@ -68,13 +75,6 @@
             <link>http://bcunningham.org/sme-when-was-the-last-time-you-shouted-in-joy/index.html</link>
             <guid isPermaLink="false">7ff26172-ccb4-4a79-a000-c005002b0d12</guid>
             <pubDate>Wed, 31 Aug 2016 10:10:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Politico: Salah Abdeslam spent three weeks in Slovakia]]></title>
-            <description><![CDATA[<article><h1>Politico: Salah Abdeslam spent three weeks in Slovakia</h1><p>April 7, 2016</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8fb0fe050def1f9b2850a90e354b7f613db80eb6.jpg"></article>]]></description>
-            <link>http://bcunningham.org/politico-salah-abdeslam-spent-three-weeks-in-slovakia/index.html</link>
-            <guid isPermaLink="false">43af2fc5-d5d6-404e-b105-dd51e9d232fb</guid>
-            <pubDate>Wed, 31 Aug 2016 10:08:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
