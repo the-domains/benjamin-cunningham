@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-20T16:47:46.150Z'
+datePublished: '2016-08-31T10:11:00.514Z'
 sourcePath: _posts/2016-05-17-sme-position-on-migration-is-doubly-harmful-to-slovakia.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-07-20T16:47:45.690Z'
+dateModified: '2016-08-31T10:10:59.738Z'
 title: 'Sme: Position on migration is doubly harmful to Slovakia'
 publisher: {}
 description: 'May 6, 2016'
