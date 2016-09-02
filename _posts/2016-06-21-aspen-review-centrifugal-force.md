@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-31T08:49:44.963Z'
+datePublished: '2016-08-31T09:07:51.750Z'
 sourcePath: _posts/2016-06-21-aspen-review-centrifugal-force.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-17T15:42:29.718Z'
+dateModified: '2016-08-31T09:07:51.243Z'
 title: 'Aspen Review: Centrifugal Force'
 publisher: {}
 description: 'On Wandering Jew: The Search for Joseph Roth by Denis Marks'
@@ -79,4 +79,4 @@ For Roth, wandering may well have been a preferred way of life but for many othe
 
 _To read the original visit..._
 
-http://www.aspeninstitute.cz/en/article/2-2016-centrifugal-force/
+<article style=""><img src="http://www.aspeninstitute.cz/upload/magazine/31-en-big.jpg" /><h1>Centrifugal Force | Aspen Review Central Europe</h1><p>The publisher of Wandering Jew, Notting Hill Editions, has taken on the admirable mission of reviving the essay as a literary form. This book appears in a beautiful cloth-bound hardcover, and at 132 pages it could easily tuck away in suitcase and be read in a single sitting on a journey of one's own.</p></article>
