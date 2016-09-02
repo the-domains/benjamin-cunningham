@@ -1,25 +1,19 @@
 ---
-datePublished: '2016-07-20T16:50:26.328Z'
+datePublished: '2016-08-31T10:08:10.020Z'
+isBasedOnUrl: null
+author: []
+via: {}
+dateModified: '2016-08-31T10:08:09.563Z'
+title: 'Sme: Your neighbors in the Czech Republic have gone crazy'
+id: e2e08e6e-8ca1-4dc8-b94d-a092dd91c3c2
+publisher: {}
+description: 'April 1, 2016'
+starred: false
 sourcePath: _posts/2016-04-05-sme-your-neighbors-in-the-czech-republic-are-crazy.md
 inFeed: true
-authors: []
-hasPage: true
-keywords: []
-author: []
-dateModified: '2016-07-20T16:50:25.528Z'
-title: 'Sme: Your neighbors in the Czech Republic have gone crazy'
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
-description: 'April 1, 2016'
-inLanguage: null
+hasPage: false
 inNav: false
-via: {}
-starred: false
-url: sme-your-neighbors-in-the-czech-republic-are-crazy/index.html
-_type: Article
+_type: MediaObject
 
 ---
 # _**Sme**_**: Your neighbors in the Czech Republic have gone crazy**
