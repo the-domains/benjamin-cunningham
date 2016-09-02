@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-20T16:37:16.789Z'
+datePublished: '2016-08-31T10:18:25.458Z'
 sourcePath: _posts/2016-04-05-aspen-review-no-laughing-matter.md
 inFeed: true
 authors: []
@@ -9,7 +9,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-07-20T16:37:16.159Z'
+dateModified: '2016-08-31T10:18:24.632Z'
 title: 'Aspen Review: No Laughing Matter'
 publisher: {}
 description: 'April 1, 2016'
