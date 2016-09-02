@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-20T17:07:04.439Z'
+datePublished: '2016-08-31T09:39:47.372Z'
 sourcePath: _posts/2016-06-16-sme-the-difference-between-fico-and-the-czechs.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-07-20T17:07:03.067Z'
+dateModified: '2016-08-31T09:39:46.682Z'
 title: 'Sme: The difference between Fico and the Czechs'
 publisher: {}
 description: 'June 10, 2016'
@@ -42,5 +42,3 @@ Sobotka and the Czechs no longer look interested in dabbling with the foolishnes
 Those things speak for themselves.
 
 _To read in the original Slovak visit..._
-
-http://komentare.sme.sk/c/20187773/rozdiel-medzi-ficom-a-ceskom.html
