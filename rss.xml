@@ -4,7 +4,7 @@
         <description><![CDATA[Writer & Journalist]]></description>
         <link>http://bcunningham.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 31 Aug 2016 10:07:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2016 10:08:01 GMT</lastBuildDate>
         <atom:link href="http://bcunningham.org/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Guardian: How a Czech "super-spy" infiltrated the CIA]]></title>
@@ -19,6 +19,13 @@
             <link>http://bcunningham.org/la-review-of-books-humanity-in-the-arts/index.html</link>
             <guid isPermaLink="false">72ab0c13-b38c-424e-a01a-5587991b1ab8</guid>
             <pubDate>Wed, 31 Aug 2016 09:35:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Economist: The Czech Republic awakes to find itself transformed into Czechia]]></title>
+            <description><![CDATA[<article><h1>The Economist: The Czech Republic awakes to find itself transformed into Czechia</h1><p>April 19, 2016</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/801c7a97-79fa-4614-ad77-f4805e95a1bc.jpg"></article>]]></description>
+            <link>http://bcunningham.org/the-economist-the-czech-republic-awakes-to-find-itself-tran/index.html</link>
+            <guid isPermaLink="false">ec72fdd2-2894-4395-b3cf-91b3bcde65bf</guid>
+            <pubDate>Wed, 31 Aug 2016 10:07:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Business New Europe: Slovak PM reportedly seeking an exit strategy]]></title>
@@ -68,13 +75,6 @@
             <link>http://bcunningham.org/sme-scaring-people-with-the-same-terrorists-you-equip/index.html</link>
             <guid isPermaLink="false">0b9ebd47-6f97-44cb-9d95-dda8d7417bbe</guid>
             <pubDate>Wed, 31 Aug 2016 09:56:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sme: An electoral system dating from the imperial era lead to the Brexit]]></title>
-            <description><![CDATA[<article><h1>Sme: An electoral system dating from the imperial era lead to the Brexit</h1><p>July 5, 2016</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/51655939-74de-429d-ae1a-5eca64ad569a.jpg"></article>]]></description>
-            <link>http://bcunningham.org/sme-an-electoral-system-dating-from-the-imperial-era-helped/index.html</link>
-            <guid isPermaLink="false">6f968e1b-9040-4cd5-a451-e182feff21ed</guid>
-            <pubDate>Wed, 31 Aug 2016 09:52:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
