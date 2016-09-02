@@ -4,7 +4,7 @@
         <description><![CDATA[Writer & Journalist]]></description>
         <link>http://bcunningham.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 31 Aug 2016 09:50:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2016 09:52:21 GMT</lastBuildDate>
         <atom:link href="http://bcunningham.org/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Guardian: How a Czech "super-spy" infiltrated the CIA]]></title>
@@ -19,6 +19,13 @@
             <link>http://bcunningham.org/la-review-of-books-humanity-in-the-arts/index.html</link>
             <guid isPermaLink="false">72ab0c13-b38c-424e-a01a-5587991b1ab8</guid>
             <pubDate>Wed, 31 Aug 2016 09:35:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sme: An electoral system dating from the imperial era lead to the Brexit]]></title>
+            <description><![CDATA[<article><h1>Sme: An electoral system dating from the imperial era lead to the Brexit</h1><p>July 5, 2016</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/51655939-74de-429d-ae1a-5eca64ad569a.jpg"></article>]]></description>
+            <link>http://bcunningham.org/sme-an-electoral-system-dating-from-the-imperial-era-helped/index.html</link>
+            <guid isPermaLink="false">6f968e1b-9040-4cd5-a451-e182feff21ed</guid>
+            <pubDate>Wed, 31 Aug 2016 09:52:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Politico: The Unbearable angst of Czech being]]></title>
@@ -68,13 +75,6 @@
             <link>http://bcunningham.org/the-economist-no-oscar-fodder-at-this-years-karlovy-vary-f/index.html</link>
             <guid isPermaLink="false">8f17b299-8a00-4bd3-8d2c-46af370900ed</guid>
             <pubDate>Wed, 31 Aug 2016 09:30:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Aspen Review: Centrifugal Force]]></title>
-            <description><![CDATA[<article><h1>Aspen Review: Centrifugal Force</h1><p>On Wandering Jew: The Search for Joseph Roth by Denis Marks</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9931ca14-c5f4-48f6-97e2-cfd5c1c7a117.jpg"></article>]]></description>
-            <link>http://bcunningham.org/aspen-review-centrifugal-force/index.html</link>
-            <guid isPermaLink="false">85b11fa0-f02e-4bd4-8997-e940ae005f79</guid>
-            <pubDate>Wed, 31 Aug 2016 09:07:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
