@@ -4,7 +4,7 @@
         <description><![CDATA[Writer & Journalist]]></description>
         <link>http://bcunningham.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 31 Aug 2016 10:13:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2016 10:13:40 GMT</lastBuildDate>
         <atom:link href="http://bcunningham.org/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Guardian: How a Czech "super-spy" infiltrated the CIA]]></title>
@@ -19,6 +19,13 @@
             <link>http://bcunningham.org/la-review-of-books-humanity-in-the-arts/index.html</link>
             <guid isPermaLink="false">72ab0c13-b38c-424e-a01a-5587991b1ab8</guid>
             <pubDate>Wed, 31 Aug 2016 09:35:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Politico: Migrants are Central Europe's new Roma]]></title>
+            <description><![CDATA[<article><h1>Politico: Migrants are Central Europe's new Roma</h1><p>April 5, 2016</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/05dec601-8c05-486a-96ef-a17932e526a4.jpg"></article>]]></description>
+            <link>http://bcunningham.org/politico-migrants-are-central-europes-new-roma/index.html</link>
+            <guid isPermaLink="false">d3ccc1aa-801b-42f0-822f-c510a41cc93d</guid>
+            <pubDate>Wed, 31 Aug 2016 10:13:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sme: Is there any such thing as a normal country?]]></title>
@@ -68,13 +75,6 @@
             <link>http://bcunningham.org/the-economist-the-czech-republic-awakes-to-find-itself-tran/index.html</link>
             <guid isPermaLink="false">ec72fdd2-2894-4395-b3cf-91b3bcde65bf</guid>
             <pubDate>Wed, 31 Aug 2016 10:07:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Business New Europe: Slovak PM reportedly seeking an exit strategy]]></title>
-            <description><![CDATA[<article><h1>Business New Europe: Slovak PM reportedly seeking an exit strategy</h1><p>May 27, 2016</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9d7410d2-f008-49fb-8061-27ce302e1bdd.jpg"></article>]]></description>
-            <link>http://bcunningham.org/business-new-europe-slovak-pm-reportedly-seeking-an-exit-st/index.html</link>
-            <guid isPermaLink="false">416c3707-5763-4319-bcee-441d794cf9b3</guid>
-            <pubDate>Wed, 31 Aug 2016 10:06:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
