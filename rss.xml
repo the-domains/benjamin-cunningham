@@ -4,7 +4,7 @@
         <description><![CDATA[Writer & Journalist]]></description>
         <link>http://bcunningham.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 31 Aug 2016 10:13:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2016 10:14:16 GMT</lastBuildDate>
         <atom:link href="http://bcunningham.org/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Guardian: How a Czech "super-spy" infiltrated the CIA]]></title>
@@ -19,6 +19,13 @@
             <link>http://bcunningham.org/la-review-of-books-humanity-in-the-arts/index.html</link>
             <guid isPermaLink="false">72ab0c13-b38c-424e-a01a-5587991b1ab8</guid>
             <pubDate>Wed, 31 Aug 2016 09:35:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sme: Panama Papers only reinforce populist mood]]></title>
+            <description><![CDATA[<article><h1>Sme: Panama Papers only reinforce populist mood</h1><p>April 8, 2016</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/aa8902d02e30b96cd5d3ee81d2ba427ba90a1fa3.jpg"></article>]]></description>
+            <link>http://bcunningham.org/sme-panama-papers-on-reinforce-populist-mood/index.html</link>
+            <guid isPermaLink="false">9ed75814-3607-4f4a-9ed3-2d66577628b2</guid>
+            <pubDate>Wed, 31 Aug 2016 10:14:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Politico: Migrants are Central Europe's new Roma]]></title>
@@ -68,13 +75,6 @@
             <link>http://bcunningham.org/politico-salah-abdeslam-spent-three-weeks-in-slovakia/index.html</link>
             <guid isPermaLink="false">43af2fc5-d5d6-404e-b105-dd51e9d232fb</guid>
             <pubDate>Wed, 31 Aug 2016 10:08:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Economist: The Czech Republic awakes to find itself transformed into Czechia]]></title>
-            <description><![CDATA[<article><h1>The Economist: The Czech Republic awakes to find itself transformed into Czechia</h1><p>April 19, 2016</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/801c7a97-79fa-4614-ad77-f4805e95a1bc.jpg"></article>]]></description>
-            <link>http://bcunningham.org/the-economist-the-czech-republic-awakes-to-find-itself-tran/index.html</link>
-            <guid isPermaLink="false">ec72fdd2-2894-4395-b3cf-91b3bcde65bf</guid>
-            <pubDate>Wed, 31 Aug 2016 10:07:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
