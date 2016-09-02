@@ -1,18 +1,18 @@
 ---
-datePublished: '2016-07-20T16:50:59.551Z'
+datePublished: '2016-08-31T08:49:44.963Z'
 sourcePath: _posts/2016-06-21-aspen-review-centrifugal-force.md
 inFeed: true
 authors: []
 hasPage: true
 keywords: []
 author: []
-dateModified: '2016-07-20T16:50:58.682Z'
+via: {}
+dateModified: '2016-08-17T15:42:29.718Z'
 title: 'Aspen Review: Centrifugal Force'
 publisher: {}
 description: 'On Wandering Jew: The Search for Joseph Roth by Denis Marks'
 inLanguage: null
 inNav: false
-via: {}
 starred: false
 url: aspen-review-centrifugal-force/index.html
 _type: Article
