@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-20T16:51:26.375Z'
+datePublished: '2016-08-31T10:07:23.490Z'
 sourcePath: >-
   _posts/2016-04-20-the-economist-the-czech-republic-awakes-to-find-itself-tran.md
 inFeed: true
@@ -8,7 +8,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-07-20T16:51:25.842Z'
+dateModified: '2016-08-31T10:07:23.027Z'
 title: >-
   The Economist: The Czech Republic awakes to find itself transformed into
   Czechia
@@ -32,4 +32,4 @@ The announcement led to some backlash, and a fair bit of confusion. Czech leader
 
 To keep reading visit...
 
-http://www.economist.com/news/europe/21697158-government-prefers-english-version-name-reminded-vaclav-havel-crawling
+<article style=""><h1>Metamorphosis</h1><p>SOME countries change their names for ideological reasons (the Soviet Union), some as part of a break-up (Bangladesh) and some on a dictatorial whim (Myanmar). It is a bit of a relief that the Czech Republic wants to change its name-or rather, the way it is referred to in English-simply for stylistic reasons.</p><img src="http://cdn.static-economist.com/sites/default/files/cf_images/images-magazine/2016/04/23/EU/20160423_EUP503_facebook.jpg" /></article>
