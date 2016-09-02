@@ -1,18 +1,18 @@
 ---
-datePublished: '2016-07-20T16:45:40.727Z'
+datePublished: '2016-08-31T09:41:26.504Z'
 sourcePath: _posts/2016-05-31-sme-politics-have-been-replaced-with-management.md
 inFeed: true
 authors: []
 hasPage: true
 keywords: []
 author: []
-dateModified: '2016-07-20T16:45:40.272Z'
+via: {}
+dateModified: '2016-08-31T09:41:25.933Z'
 title: 'Sme: Politics have been replaced with management'
 publisher: {}
 description: 'May 27, 2016'
 inLanguage: null
 inNav: false
-via: {}
 starred: false
 url: sme-politics-have-been-replaced-with-management/index.html
 _type: Article
@@ -38,5 +38,3 @@ In this construction, both globalisation and gay marriage are good things. They 
 In country after country voters have ceased to believe that who they voted for in past elections really mattered. People in Austria are united --- not divided --- on this, and so are the large numbers of voters in Slovakia that backed incoherent fringe parties in the March elections.
 
 _To read in the original Slovak go to..._
-
-http://komentare.sme.sk/c/20175509/politiku-nahradza-manazment.html
