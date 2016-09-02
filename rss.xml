@@ -4,7 +4,7 @@
         <description><![CDATA[Writer & Journalist]]></description>
         <link>http://bcunningham.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 31 Aug 2016 09:41:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2016 09:49:40 GMT</lastBuildDate>
         <atom:link href="http://bcunningham.org/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Guardian: How a Czech "super-spy" infiltrated the CIA]]></title>
@@ -19,6 +19,13 @@
             <link>http://bcunningham.org/la-review-of-books-humanity-in-the-arts/index.html</link>
             <guid isPermaLink="false">72ab0c13-b38c-424e-a01a-5587991b1ab8</guid>
             <pubDate>Wed, 31 Aug 2016 09:35:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Economist: The charms of Twitterature]]></title>
+            <description><![CDATA[<article><h1>The Economist: The charms of Twitterature</h1><p>May 30, 2016</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a4a791c8-e0e5-442a-9df9-b0cc5e92a23a.jpg"></article>]]></description>
+            <link>http://bcunningham.org/the-economist-the-charms-of-twitterature/index.html</link>
+            <guid isPermaLink="false">cbf04b5a-95ee-4e31-be6e-c335f3258f64</guid>
+            <pubDate>Wed, 31 Aug 2016 09:48:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sme: Politics have been replaced with management]]></title>
@@ -68,13 +75,6 @@
             <link>http://bcunningham.org/benjamin-cunningham-is-a-prague-based-writer-and-journalist/index.html</link>
             <guid isPermaLink="false">bb291640-5404-4a52-b9e2-0546d641ef9e</guid>
             <pubDate>Wed, 31 Aug 2016 08:34:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Economist: The Czech Republic awakes to find itself transformed into Czechia]]></title>
-            <description><![CDATA[<article><h1>The Economist: The Czech Republic awakes to find itself transformed into Czechia</h1><p>April 19, 2016</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/801c7a97-79fa-4614-ad77-f4805e95a1bc.jpg"></article>]]></description>
-            <link>http://bcunningham.org/the-economist-the-czech-republic-awakes-to-find-itself-tran/index.html</link>
-            <guid isPermaLink="false">ec72fdd2-2894-4395-b3cf-91b3bcde65bf</guid>
-            <pubDate>Wed, 20 Jul 2016 16:51:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
