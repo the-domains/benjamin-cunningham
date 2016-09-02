@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-20T16:45:12.106Z'
+datePublished: '2016-08-31T10:11:39.547Z'
 sourcePath: _posts/2016-05-24-la-review-of-books-movement-science.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-07-20T16:45:11.646Z'
+dateModified: '2016-08-31T10:11:39.019Z'
 title: 'LA Review of Books: Movement Science'
 publisher: {}
 description: 'May 24, 2016'
@@ -33,4 +33,4 @@ Though she only touches on current events in the book's final pages --- referrin
 
 _To keep reading the full article visit..._
 
-_https://lareviewofbooks.org/article/movement-science/_
+<article style=""><h1>Movement Science - Los Angeles Review of Books</h1><p>MIGRATION, OR IMMIGRATION, provokes passionate exchanges that extend far beyond a simple debate about what to do with the proverbial tired, poor, and huddled masses. When Donald Trump suggests that Mexicans crossing the US border could be rapists, the public is alternately appalled or enthused.</p><img src="https://lareviewofbooks.org/wp-content/uploads/2016/05/greatdeparture.jpg" /></article>
