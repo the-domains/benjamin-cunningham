@@ -1,4 +1,6 @@
 typography_spectrum: 0.5953061585314572
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#9D2D3C'
@@ -28,7 +30,8 @@ navigation:
   - name: About Me
     id: bb291640-5404-4a52-b9e2-0546d641ef9e
     type: content
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/1be9d8f1-5491-4ce9-babc-3b50bf89f191.jpg
 title: Writer & Journalist
 description: ''
 purpose: []
