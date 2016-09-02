@@ -1,17 +1,25 @@
 ---
-datePublished: '2016-08-31T09:03:18.117Z'
+inFeed: true
+hasPage: true
+inNav: false
+inLanguage: null
+keywords: []
+description: 'August 16, 2016'
+datePublished: '2016-08-31T09:56:51.225Z'
+dateModified: '2016-08-31T09:46:47.757Z'
 sourcePath: _posts/2016-08-17-the-economist-leisure-principle-is-changing-the-way-peopl.md
 author: []
 via: {}
-dateModified: '2016-08-31T09:03:09.279Z'
 title: 'The Economist: ‘Leisure principle’ is changing the way people travel'
-publisher: {}
-description: 'August 16, 2016'
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+url: the-economist-leisure-principle-is-changing-the-way-peopl/index.html
+_type: Article
 
 ---
 # The Economist: 'Leisure principle' is changing the way people travel
