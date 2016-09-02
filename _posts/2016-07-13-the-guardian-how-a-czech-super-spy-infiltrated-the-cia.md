@@ -5,20 +5,20 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'June 30, 2016'
-datePublished: '2016-08-31T09:23:31.031Z'
-dateModified: '2016-08-31T09:22:51.283Z'
+datePublished: '2016-08-31T09:35:31.117Z'
+dateModified: '2016-08-31T09:28:06.972Z'
 id: 9bb41b09-74b0-4f14-a7fd-d0f2b4516512
 title: 'The Guardian: How a Czech "super-spy" infiltrated the CIA'
 author: []
+via: {}
+sourcePath: _posts/2016-07-13-the-guardian-how-a-czech-super-spy-infiltrated-the-cia.md
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-via: {}
 starred: true
-sourcePath: _posts/2016-07-13-the-guardian-how-a-czech-super-spy-infiltrated-the-cia.md
 url: the-guardian-how-a-czech-super-spy-infiltrated-the-cia/index.html
 _type: Article
 
