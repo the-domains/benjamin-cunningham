@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-20T16:42:33.407Z'
+datePublished: '2016-08-31T09:49:56.224Z'
 sourcePath: _posts/2016-06-16-politico-the-unbearable-angst-of-czech-being.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-07-20T16:42:32.956Z'
+dateModified: '2016-08-31T09:49:55.753Z'
 title: 'Politico: The Unbearable angst of Czech being'
 publisher: {}
 description: 'June 13, 2016'
@@ -35,4 +35,4 @@ Although the Czech Republic's detachment from Brussels and its increasing ambiva
 
 To continue reading visit...
 
-_http://www.politico.eu/article/unbearable-angst-of-czech-being-economy-eurozone-migration-crisis-brexit-identity-crisis/_
+<article style=""><h1>Unbearable angst of Czech being</h1><p>PRAGUE - Today's Czechs are healthier, wealthier and safer than they have ever been. The economy grew at a robust 4.2 percent last year and the country boasted the lowest unemployment rate in the European Union. The EU's problems, from a possible British exit to the eurozone and migration crises, have almost no tangible impact on the Czech Republic.</p><img src="http://www.politico.eu/wp-content/uploads/2016/06/GettyImages-114154539-1200x628.jpg" /></article>
