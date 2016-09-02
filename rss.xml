@@ -4,7 +4,7 @@
         <description><![CDATA[Writer & Journalist]]></description>
         <link>http://bcunningham.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 31 Aug 2016 09:54:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2016 09:54:23 GMT</lastBuildDate>
         <atom:link href="http://bcunningham.org/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Guardian: How a Czech "super-spy" infiltrated the CIA]]></title>
@@ -19,6 +19,13 @@
             <link>http://bcunningham.org/la-review-of-books-humanity-in-the-arts/index.html</link>
             <guid isPermaLink="false">72ab0c13-b38c-424e-a01a-5587991b1ab8</guid>
             <pubDate>Wed, 31 Aug 2016 09:35:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sme: Dear England!]]></title>
+            <description><![CDATA[<article><h1>Sme: Dear England!</h1><p>June 3, 2016</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a84acdb8-2cb0-4e91-a5ff-99e3b93ac590.jpg"></article>]]></description>
+            <link>http://bcunningham.org/sme-dear-england/index.html</link>
+            <guid isPermaLink="false">053c3834-340f-4604-9eab-d317f53c6c4b</guid>
+            <pubDate>Wed, 31 Aug 2016 09:54:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Business New Europe: Pressure grows on Slovak interior minister to resign]]></title>
@@ -68,13 +75,6 @@
             <link>http://bcunningham.org/sme-the-difference-between-fico-and-the-czechs/index.html</link>
             <guid isPermaLink="false">dc9a67ac-a379-4c33-a1a9-60924def6883</guid>
             <pubDate>Wed, 31 Aug 2016 09:39:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Politico: Coal baron falls foul of Czech politics]]></title>
-            <description><![CDATA[<article><h1>Politico: Coal baron falls foul of Czech politics</h1><p>August 16, 2016</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/985273a5-427a-4b0a-b362-57f10181df54.jpg"></article>]]></description>
-            <link>http://bcunningham.org/politico-coal-baron-falls-foul-of-czech-politics/index.html</link>
-            <guid isPermaLink="false">add45723-5902-42fa-a575-f18f449b2721</guid>
-            <pubDate>Wed, 31 Aug 2016 09:36:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
