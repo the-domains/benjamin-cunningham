@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-31T08:19:02.899Z'
+datePublished: '2016-08-31T08:39:22.592Z'
 sourcePath: _posts/2016-08-17-politico-coal-baron-falls-foul-of-czech-politics.md
 author: []
 via: {}
-dateModified: '2016-08-17T16:00:32.210Z'
+dateModified: '2016-08-31T08:39:22.158Z'
 title: 'Politico: Coal baron falls foul of Czech politics'
 publisher: {}
 description: 'August 16, 2016'
