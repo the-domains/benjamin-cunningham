@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-31T09:00:22.045Z'
+datePublished: '2016-08-31T09:02:41.269Z'
 sourcePath: _posts/2016-08-17-politico-coal-baron-falls-foul-of-czech-politics.md
 author: []
 via: {}
-dateModified: '2016-08-31T09:00:21.560Z'
+dateModified: '2016-08-31T09:02:40.787Z'
 title: 'Politico: Coal baron falls foul of Czech politics'
 publisher: {}
 description: 'August 16, 2016'
@@ -20,8 +20,6 @@ August 16, 2016
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/985273a5-427a-4b0a-b362-57f10181df54.jpg)
 
 The Czech Republic is gearing up for regional elections this fall, a parliamentary election next year and a presidential vote the year after that --- and a big theme in all three will be the rise and fall of Zdeněk Bakala.
-
-### 'Leave and never return'
 
 The name may not ring much of a bell beyond Central Europe and the coal industry, but in the Czech Republic Bakala is a celebrity, long seen as the country's cigar-chomping good capitalist: a banker and media mogul who became one of the country's richest men by taking a contrarian bet on investing in coal.
 
