@@ -1,24 +1,28 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: "Benjamin Cunningham is a Prague based writer and journalist. He contributes to Politico, The Economist, The Los Angeles Review of Books, Aspen Review and is a columnist for the Slovak daily Sme. \_"
-datePublished: '2016-08-31T08:34:15.718Z'
-dateModified: '2016-08-31T08:34:15.286Z'
+datePublished: '2016-08-31T09:59:36.775Z'
+dateModified: '2016-08-31T09:29:05.836Z'
 title: ''
 author:
   - name: ''
     url: ''
 sourcePath: >-
   _posts/2016-04-01-benjamin-cunningham-is-a-prague-based-writer-and-journalist.md
-authors: []
-publisher: {}
 via: {}
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
 starred: false
 url: benjamin-cunningham-is-a-prague-based-writer-and-journalist/index.html
-_type: Article
+_type: WebPage
 
 ---
 About Me
