@@ -1,17 +1,25 @@
 ---
-datePublished: '2016-08-31T09:03:35.093Z'
+inFeed: true
+hasPage: true
+inNav: false
+inLanguage: null
+keywords: []
+description: 'August 12, 2016'
+datePublished: '2016-08-31T09:56:57.089Z'
+dateModified: '2016-08-31T09:46:24.395Z'
 sourcePath: _posts/2016-08-17-sme-cold-water-in-rio.md
 author: []
 via: {}
-dateModified: '2016-08-31T09:03:34.249Z'
 title: 'Sme: Cold water in Rio'
-publisher: {}
-description: 'August 12, 2016'
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+url: sme-cold-water-in-rio/index.html
+_type: Article
 
 ---
 # _**Sme**_**: Cold water in Rio**
