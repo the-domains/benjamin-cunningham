@@ -1,4 +1,3 @@
-layout_spectrum: 0.04167943517677486
 typography_spectrum: 0.5953061585314572
 color:
   brandColors:
@@ -15,6 +14,7 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.04167943517677486
 analytics:
   google: null
   facebook: null
@@ -29,6 +29,6 @@ navigation:
     id: bb291640-5404-4a52-b9e2-0546d641ef9e
     type: content
 favicon: null
-title: Writer & Journalist
+title: ''
 description: ''
 purpose: []
