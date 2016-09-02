@@ -1,22 +1,18 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-keywords: []
-description: 'June 18, 2016'
-datePublished: '2016-08-31T09:57:04.954Z'
-dateModified: '2016-08-31T09:55:32.728Z'
+datePublished: '2016-08-31T10:05:14.493Z'
 sourcePath: _posts/2016-06-21-sme-the-british-referendum-is-just-a-game-but-a-dangerous.md
+inFeed: true
+authors: []
+hasPage: true
+keywords: []
 author: []
 via: {}
+dateModified: '2016-08-31T10:05:13.952Z'
 title: 'Sme: The British referendum is just a game, but a dangerous one'
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: {}
+description: 'June 18, 2016'
+inLanguage: null
+inNav: false
 starred: false
 url: sme-the-british-referendum-is-just-a-game-but-a-dangerous/index.html
 _type: Article
@@ -46,5 +42,3 @@ So, in or out, know this: Tens of millions of Brits are ungrateful for the contr
 Are you sure you are in favour of a Bremain? Does that sound like a reliable partner?
 
 _To read in the original Slovak visit..._
-
-http://komentare.sme.sk/c/20194594/britske-referendum-je-len-hra-ale-nebezpecna.html
