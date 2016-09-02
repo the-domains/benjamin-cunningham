@@ -21,8 +21,7 @@ analytics:
   google: null
   facebook: null
   twitter: null
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/326e111a-c1f1-41cd-b27d-e79f479c1418.jpg
+logo: null
 name: Benjamin Cunningham
 cta:
   domain: null
@@ -32,8 +31,7 @@ navigation:
   - name: About Me
     id: bb291640-5404-4a52-b9e2-0546d641ef9e
     type: content
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/1be9d8f1-5491-4ce9-babc-3b50bf89f191.jpg
+favicon: null
 title: Writer & Journalist
 description: ''
 purpose: []
