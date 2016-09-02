@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-20T16:44:07.992Z'
+datePublished: '2016-08-31T10:12:18.280Z'
 sourcePath: >-
   _posts/2016-04-20-sme-slovakia-rolls-of-the-tongue-what-about-the-rest-of-cz.md
 inFeed: true
@@ -8,7 +8,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-07-20T16:44:07.562Z'
+dateModified: '2016-08-31T10:12:17.797Z'
 title: 'Sme: Slovakia rolls of the tongue. What about the rest of Czechoslovakia?'
 publisher: {}
 description: 'April 15, 2016'
@@ -43,5 +43,3 @@ Regardless of what Zaoralek or Zeman say, I suspect it is largely out of their h
 I do know one thing, when people ask me where I live from now on, I will just say Prague.
 
 _To read in the original Slovak visit..._
-
-http://komentare.sme.sk/c/20139852/czechia-a-cesko.html
