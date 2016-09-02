@@ -1,16 +1,16 @@
 ---
-id: 72ab0c13-b38c-424e-a01a-5587991b1ab8
-dateModified: '2016-08-31T08:57:12.607Z'
-title: 'LA Review of Books: Humanity in the arts'
-datePublished: '2016-08-31T08:57:13.093Z'
-author: []
+datePublished: '2016-08-31T09:02:48.911Z'
+sourcePath: _posts/2016-08-01-la-review-of-books-humanity-in-the-arts.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/1b0be105-4259-4321-978e-f326c05acdea.jpg
-description: An interview with filmmaker Danis Tanović
-publisher: {}
+author: []
 via: {}
+dateModified: '2016-08-31T09:02:01.176Z'
+title: 'LA Review of Books: Humanity in the arts'
+id: 72ab0c13-b38c-424e-a01a-5587991b1ab8
+publisher: {}
+description: An interview with filmmaker Danis Tanović
 starred: false
-sourcePath: _posts/2016-08-01-la-review-of-books-humanity-in-the-arts.md
 inFeed: true
 hasPage: false
 inNav: false
