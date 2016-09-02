@@ -1,18 +1,18 @@
 ---
-datePublished: '2016-07-20T16:43:13.686Z'
+datePublished: '2016-08-31T10:13:03.962Z'
 sourcePath: _posts/2016-05-17-sme-is-there-any-such-thing-as-a-normal-country.md
 inFeed: true
 authors: []
 hasPage: true
 keywords: []
 author: []
-dateModified: '2016-07-20T16:43:13.097Z'
+via: {}
+dateModified: '2016-08-31T10:13:03.274Z'
 title: 'Sme: Is there any such thing as a normal country?'
 publisher: {}
 description: 'May 13, 2016'
 inLanguage: null
 inNav: false
-via: {}
 starred: false
 url: sme-is-there-any-such-thing-as-a-normal-country/index.html
 _type: Article
