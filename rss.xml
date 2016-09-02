@@ -4,7 +4,7 @@
         <description><![CDATA[Writer & Journalist]]></description>
         <link>http://bcunningham.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 31 Aug 2016 10:10:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2016 10:11:03 GMT</lastBuildDate>
         <atom:link href="http://bcunningham.org/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Guardian: How a Czech "super-spy" infiltrated the CIA]]></title>
@@ -19,6 +19,13 @@
             <link>http://bcunningham.org/la-review-of-books-humanity-in-the-arts/index.html</link>
             <guid isPermaLink="false">72ab0c13-b38c-424e-a01a-5587991b1ab8</guid>
             <pubDate>Wed, 31 Aug 2016 09:35:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sme: Position on migration is doubly harmful to Slovakia]]></title>
+            <description><![CDATA[<article><h1>Sme: Position on migration is doubly harmful to Slovakia</h1><p>May 6, 2016</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c15c5754-3975-4e1b-8152-10c5a3b03324.jpg"></article>]]></description>
+            <link>http://bcunningham.org/sme-position-on-migration-is-doubly-harmful-to-slovakia/index.html</link>
+            <guid isPermaLink="false">0a56c5f4-c363-4106-a46c-9dd398cf25d2</guid>
+            <pubDate>Wed, 31 Aug 2016 10:11:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sme: When was the last time you shouted in joy?]]></title>
@@ -68,13 +75,6 @@
             <link>http://bcunningham.org/sme-cold-water-in-rio/index.html</link>
             <guid isPermaLink="false">491c4b80-6766-4497-920c-f1d397c7db0b</guid>
             <pubDate>Wed, 31 Aug 2016 10:02:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Economist: ‘Leisure principle’ is changing the way people travel]]></title>
-            <description><![CDATA[<article><h1>The Economist: ‘Leisure principle’ is changing the way people travel</h1><p>August 16, 2016</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ae017e3c-c7fa-474d-b20f-2d805d60ce38.jpg"></article>]]></description>
-            <link>http://bcunningham.org/the-economist-leisure-principle-is-changing-the-way-peopl/index.html</link>
-            <guid isPermaLink="false">d4d27fce-ec7c-466d-935d-40aa0dc08c86</guid>
-            <pubDate>Wed, 31 Aug 2016 10:02:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
