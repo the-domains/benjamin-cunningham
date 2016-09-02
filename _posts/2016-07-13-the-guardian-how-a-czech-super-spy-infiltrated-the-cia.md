@@ -1,21 +1,20 @@
 ---
-datePublished: '2016-08-31T08:38:39.678Z'
-sourcePath: _posts/2016-07-13-the-guardian-how-a-czech-super-spy-infiltrated-the-cia.md
-inFeed: true
-authors: []
-hasPage: true
-keywords: []
+datePublished: '2016-08-31T09:08:30.427Z'
+isBasedOnUrl: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/07862e66-f260-440c-be86-c5aa577b3c01.jpg
 author: []
 via: {}
-dateModified: '2016-08-31T08:38:39.174Z'
+dateModified: '2016-08-31T09:08:29.804Z'
 title: 'The Guardian: How a Czech "super-spy" infiltrated the CIA'
+id: 9bb41b09-74b0-4f14-a7fd-d0f2b4516512
 publisher: {}
 description: 'June 30, 2016'
-inLanguage: null
-inNav: false
 starred: true
-url: the-guardian-how-a-czech-super-spy-infiltrated-the-cia/index.html
-_type: Article
+sourcePath: _posts/2016-07-13-the-guardian-how-a-czech-super-spy-infiltrated-the-cia.md
+inFeed: true
+hasPage: false
+inNav: false
+_type: MediaObject
 
 ---
 # _**The Guardian**_**: How a Czech "super-spy" infiltrated the CIA**
@@ -47,4 +46,4 @@ In the end, despite years of intrigue and enormous cost, neither Koecher nor his
 
 _To keep reading visit..._
 
-https://www.theguardian.com/world/2016/jun/30/how-a-czech-super-spy-infiltrated-cia-karel-koecher\#img-1
+<article style=""><img src="https://i.guim.co.uk/img/media/a36a8b3359f5f94dada9cc200d86a34ee0289c54/0_0_4800_2880/4800.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=206250eb5846d604b6fe95beca3ce7b8" /><h1>How a Czech 'super-spy' infiltrated the CIA</h1><p>On a cold February night in 1986, Berlin's Glienicke Bridge became the scene of the cold war's last ever prisoner exchange - a dramatic hand-over involving a Soviet dissident and Karel Koecher, the only foreign agent ever known to have infiltrated the CIA.</p></article>
