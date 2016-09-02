@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-20T16:38:51.745Z'
+datePublished: '2016-08-31T10:14:13.699Z'
 sourcePath: _posts/2016-04-11-sme-panama-papers-on-reinforce-populist-mood.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-07-20T16:38:50.844Z'
+dateModified: '2016-08-31T10:14:13.114Z'
 title: 'Sme: Panama Papers only reinforce populist mood'
 publisher: {}
 description: 'April 8, 2016'
@@ -40,5 +40,3 @@ Though the people whose names are now part of the Panama Papers scandal may now 
 Populists get votes because they have a point, the game is rigged.
 
 _For the original Slovak version in Sme see:_
-
-http://komentare.sme.sk/c/20134407/panama-papers-len-posilnia-populizmus.html
