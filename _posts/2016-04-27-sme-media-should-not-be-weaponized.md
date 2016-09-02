@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-20T16:49:13.255Z'
+datePublished: '2016-08-31T10:15:28.075Z'
 sourcePath: _posts/2016-04-27-sme-media-should-not-be-weaponized.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-07-20T16:49:12.689Z'
+dateModified: '2016-08-31T10:09:25.207Z'
 title: 'Sme: Media should not be weaponized'
 publisher: {}
 description: 'April 22, 2016'
@@ -41,4 +41,4 @@ A country with the 12th freest media environment in the world is strong enough t
 
 _To read in the original Slovak see..._
 
-http://komentare.sme.sk/c/20146213/media-nie-su-bojova-zbran.html
+<article style=""></article>
