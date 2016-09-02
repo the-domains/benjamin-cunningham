@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-20T16:35:08.494Z'
+datePublished: '2016-08-31T10:20:46.176Z'
 sourcePath: _posts/2016-07-13-sme-now-the-bill-comes-due-mr-cameron.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-07-20T16:35:08.064Z'
+dateModified: '2016-08-31T10:20:45.768Z'
 title: 'Sme: Now the bill comes due, Mr. Cameron'
 publisher: {}
 description: 'June 24, 2016'
