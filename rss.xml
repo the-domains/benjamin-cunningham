@@ -4,7 +4,7 @@
         <description><![CDATA[Writer & Journalist]]></description>
         <link>http://bcunningham.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 31 Aug 2016 10:08:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2016 10:08:52 GMT</lastBuildDate>
         <atom:link href="http://bcunningham.org/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Guardian: How a Czech "super-spy" infiltrated the CIA]]></title>
@@ -19,6 +19,13 @@
             <link>http://bcunningham.org/la-review-of-books-humanity-in-the-arts/index.html</link>
             <guid isPermaLink="false">72ab0c13-b38c-424e-a01a-5587991b1ab8</guid>
             <pubDate>Wed, 31 Aug 2016 09:35:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Politico: Salah Abdeslam spent three weeks in Slovakia]]></title>
+            <description><![CDATA[<article><h1>Politico: Salah Abdeslam spent three weeks in Slovakia</h1><p>April 7, 2016</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8fb0fe050def1f9b2850a90e354b7f613db80eb6.jpg"></article>]]></description>
+            <link>http://bcunningham.org/politico-salah-abdeslam-spent-three-weeks-in-slovakia/index.html</link>
+            <guid isPermaLink="false">43af2fc5-d5d6-404e-b105-dd51e9d232fb</guid>
+            <pubDate>Wed, 31 Aug 2016 10:08:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Economist: The Czech Republic awakes to find itself transformed into Czechia]]></title>
@@ -68,13 +75,6 @@
             <link>http://bcunningham.org/sme-dear-england/index.html</link>
             <guid isPermaLink="false">053c3834-340f-4604-9eab-d317f53c6c4b</guid>
             <pubDate>Wed, 31 Aug 2016 09:59:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sme: Scaring people with the same terrorists you equip]]></title>
-            <description><![CDATA[<article><h1>Sme: Scaring people with the same terrorists you equip</h1><p>August 5, 2016</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/31ac4b51-7447-408d-9798-07cabc2a2113.jpg"></article>]]></description>
-            <link>http://bcunningham.org/sme-scaring-people-with-the-same-terrorists-you-equip/index.html</link>
-            <guid isPermaLink="false">0b9ebd47-6f97-44cb-9d95-dda8d7417bbe</guid>
-            <pubDate>Wed, 31 Aug 2016 09:56:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
