@@ -1,18 +1,18 @@
 ---
-datePublished: '2016-07-20T16:48:16.791Z'
+datePublished: '2016-08-31T10:10:05.871Z'
 sourcePath: _posts/2016-05-24-sme-when-was-the-last-time-you-shouted-in-joy.md
 inFeed: true
 authors: []
 hasPage: true
 keywords: []
 author: []
-dateModified: '2016-07-20T16:48:16.243Z'
+via: {}
+dateModified: '2016-08-31T10:10:05.315Z'
 title: 'Sme: When was the last time you shouted in joy?'
 publisher: {}
 description: 'May 22, 2016'
 inLanguage: null
 inNav: false
-via: {}
 starred: false
 url: sme-when-was-the-last-time-you-shouted-in-joy/index.html
 _type: Article
@@ -43,4 +43,4 @@ So: Cheer up!
 
 _To read in the original Slovak go to..._
 
-http://komentare.sme.sk/c/20169358/kedy-ste-naposledy-jasali.html
+<article style=""></article>
