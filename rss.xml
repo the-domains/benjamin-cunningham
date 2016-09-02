@@ -4,7 +4,7 @@
         <description><![CDATA[Writer & Journalist]]></description>
         <link>http://bcunningham.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 31 Aug 2016 10:05:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2016 10:07:34 GMT</lastBuildDate>
         <atom:link href="http://bcunningham.org/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Guardian: How a Czech "super-spy" infiltrated the CIA]]></title>
@@ -19,6 +19,13 @@
             <link>http://bcunningham.org/la-review-of-books-humanity-in-the-arts/index.html</link>
             <guid isPermaLink="false">72ab0c13-b38c-424e-a01a-5587991b1ab8</guid>
             <pubDate>Wed, 31 Aug 2016 09:35:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Business New Europe: Slovak PM reportedly seeking an exit strategy]]></title>
+            <description><![CDATA[<article><h1>Business New Europe: Slovak PM reportedly seeking an exit strategy</h1><p>May 27, 2016</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9d7410d2-f008-49fb-8061-27ce302e1bdd.jpg"></article>]]></description>
+            <link>http://bcunningham.org/business-new-europe-slovak-pm-reportedly-seeking-an-exit-st/index.html</link>
+            <guid isPermaLink="false">416c3707-5763-4319-bcee-441d794cf9b3</guid>
+            <pubDate>Wed, 31 Aug 2016 10:06:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sme: The British referendum is just a game, but a dangerous one]]></title>
@@ -68,13 +75,6 @@
             <link>http://bcunningham.org/sme-an-electoral-system-dating-from-the-imperial-era-helped/index.html</link>
             <guid isPermaLink="false">6f968e1b-9040-4cd5-a451-e182feff21ed</guid>
             <pubDate>Wed, 31 Aug 2016 09:52:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Politico: The Unbearable angst of Czech being]]></title>
-            <description><![CDATA[<article><h1>Politico: The Unbearable angst of Czech being</h1><p>June 13, 2016</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b7dffdfb-39f8-4acf-90e7-eb6c3877066b.jpg"></article>]]></description>
-            <link>http://bcunningham.org/politico-the-unbearable-angst-of-czech-being/index.html</link>
-            <guid isPermaLink="false">0fe37fa3-d690-44c6-a07e-f43de3d1c1b5</guid>
-            <pubDate>Wed, 31 Aug 2016 09:49:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
