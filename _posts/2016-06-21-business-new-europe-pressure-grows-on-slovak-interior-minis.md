@@ -1,19 +1,23 @@
 ---
-datePublished: '2016-08-31T09:53:39.655Z'
+inFeed: true
+hasPage: true
+inNav: false
+inLanguage: null
+keywords: []
+description: 'June 15, 2016'
+datePublished: '2016-08-31T09:57:11.867Z'
+dateModified: '2016-08-31T09:54:54.311Z'
 sourcePath: >-
   _posts/2016-06-21-business-new-europe-pressure-grows-on-slovak-interior-minis.md
-inFeed: true
-authors: []
-hasPage: true
-keywords: []
 author: []
 via: {}
-dateModified: '2016-08-31T09:53:39.015Z'
 title: 'Business New Europe: Pressure grows on Slovak interior minister to resign'
-publisher: {}
-description: 'June 15, 2016'
-inLanguage: null
-inNav: false
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
 starred: false
 url: business-new-europe-pressure-grows-on-slovak-interior-minis/index.html
 _type: Article
@@ -36,4 +40,4 @@ Filip Rybanič, an assistant to MP Jozef Rajtár of the opposition Freedom and S
 
 _To continue reading visit..._
 
-<article style=""><img src="http://d2l2idrff2c2gb.cloudfront.net/styles/16_9_desktop/s3/articleimages/Robert_Kalin%CC%8Ca%CC%81k_2010.jpg" /><h1>[Pressure grows on Slovak interior minister to resign | bne IntelliNews</h1><p>By Benjamin Cunningham in Bratislava Just days before Slovakia takes over as president of the EU Council, pressure is growing for the resignation of Robert Kaliňák, lynchpin of the ruling Smer party and interior minister. At issue are his links to alleged VAT fraudster Ladislav Bašternák, whose company made payments to Kaliňák's bank account that the political opposition contends were a bribe.</p></article>
+http://www.intellinews.com/pressure-grows-on-slovak-interior-minister-to-resign-99927/
